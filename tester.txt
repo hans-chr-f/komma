@@ -1,50 +1,40 @@
+# Ignore lines starting with '#'
+#
 # Enkle setninger uten komma
-Det er fint vær ute.
-Stortinget skal drøfte skattesaken på nytt.
-Det vil bli harde tider på arbeidsmarkedet.
-Det vil sikkert bli forsinkelser.
-Til sommeren har vi bodd her i sju år.
-Det var lett å overtale Sverre til å bli med.
-Styret vedtok å legge ned bedriften.
-Jeg har ikke lest boka.
-Den korteste grammatiske rekkevidden gir den videste tolkningen.
-Vi hadde nådd det hvis vi hadde stått tidligere opp.
+Det er fint vær ute. > 99
+Stortinget skal drøfte skattesaken på nytt. > 99
+Det vil bli harde tider på arbeidsmarkedet. > 99
+Det vil sikkert bli forsinkelser. > 99
+Til sommeren har vi bodd her i sju år. > 99
+Det var lett å overtale Sverre til å bli med. > 99
+Styret vedtok å legge ned bedriften. > 99
+Jeg har ikke lest boka. > 99
+Den korteste grammatiske rekkevidden gir den videste tolkningen. > 99
+Vi hadde nådd det hvis vi hadde stått tidligere opp. > 99
 #
 # Setninger fra NOU-er
-Deretter presenterer utvalget informasjon om elevenes læringsresultater og læringsmiljø.
-Her refererer utvalget til funn fra en forskningsoppsummering.
-Kapitlet inneholder en egen del om organiseringen av opplæringen.
-Videre i kapitlet beskriver utvalget de ansatte i skolen og deres kompetanse.
-Helt til sist i kapitlet blir tall over kostnader til kvalitetsvurderingssystemet presentert.
-Grunnskoleopplæringen skal normalt starte det kalenderåret barnet fyller seks år.
-Plikten kan ivaretas i en offentlig grunnskole eller gjennom annen tilsvarende opplæring.
-Utvalgets arbeid er avgrenset til å omfatte grunnskolen og de studieforberedende utdanningsprogrammene i den videregående opplæringen.
-Studieforberedende utdanningsprogrammer er et treårig studieforløp.
-I tillegg er staten eier av de statlige samiske videregående skolene.
+Deretter presenterer utvalget informasjon om elevenes læringsresultater og læringsmiljø. > 99
+Her refererer utvalget til funn fra en forskningsoppsummering. > 99
+Kapitlet inneholder en egen del om organiseringen av opplæringen. > 99
+Videre i kapitlet beskriver utvalget de ansatte i skolen og deres kompetanse. > 99
+Helt til sist i kapitlet blir tall over kostnader til kvalitetsvurderingssystemet presentert. > 99
+Grunnskoleopplæringen skal normalt starte det kalenderåret barnet fyller seks år. > 99
+Plikten kan ivaretas i en offentlig grunnskole eller gjennom annen tilsvarende opplæring. > 99
+Utvalgets arbeid er avgrenset til å omfatte grunnskolen og de studieforberedende utdanningsprogrammene i den videregående opplæringen. > 99
+Studieforberedende utdanningsprogrammer er et treårig studieforløp. > 99
+I tillegg er staten eier av de statlige samiske videregående skolene. > 99
 #
-# Setninger i kategori: 'helsetninger-uten':
-Eva klatrer og Ola går på ski.
-Trine klatrer Jens sykler og Ola går på ski.
-Skjuler han seg eller har han flyktet eller er han død?
-Små byger varer lenge men plutselige stormer er korte.
-Jeg kan ikke uttale meg for jeg var ikke til stede.
-Hun tidde så fikk rektor tro hva han ville.
-Petter skiftet jobb for tredje gang på to år og Aud fulgte opp med sin andre skilsmisse på to år.
-På kjøkkenbordet står brødet og kaffekannen har jeg satt på benken.
-I 2015 ble spørreskjemaet sendt i posten men det kunne også besvares på internett.
-Flyktningene har ventet lenge men nå ser det ut til å bli en løsning.
-#
-# Setninger i kategori: 'helsetninger-med':
-Eva klatrer, og Ola går på ski.
-Trine klatrer, Jens sykler, og Ola går på ski.
-Skjuler han seg, eller har han flyktet, eller er han død?
-Små byger varer lenge, men plutselige stormer er korte.
-Jeg kan ikke uttale meg, for jeg var ikke til stede.
-Hun tidde, så rektor fikk tro hva han ville.
-Petter skiftet jobb for tredje gang på to år, og Aud fulgte opp med sin andre skilsmisse på to år.
-På kjøkkenbordet står brødet, og kaffekannen har jeg satt på benken.
-I 2015 ble spørreskjemaet sendt i posten, men det kunne også besvares på internett.
-Flyktningene har ventet lenge, men nå ser det ut til å bli en løsning.
+# Helsetninger sideordnet med konjunksjon
+Eva klatrer <KOMMA> og Ola går på ski. > 1
+Trine klatrer <KOMMA> Jens sykler, og Ola går på ski. > 1
+Skjuler han seg <KOMMA> eller har han flyktet <KOMMA> eller er han død? > 1
+Små byger varer lenge <KOMMA> men plutselige stormer er korte. > 1
+Jeg kan ikke uttale meg <KOMMA> for jeg var ikke til stede. > 1
+Hun tidde <KOMMA> så rektor fikk tro hva han ville. > 1
+Petter skiftet jobb for tredje gang på to år <KOMMA> og Aud fulgte opp med sin andre skilsmisse på to år. > 1
+På kjøkkenbordet står brødet <KOMMA> og kaffekannen har jeg satt på benken. > 1
+I 2015 ble spørreskjemaet sendt i posten <KOMMA> men det kunne også besvares på internett. > 1
+Flyktningene har ventet lenge <KOMMA> men nå ser det ut til å bli en løsning. > 1
 #
 # Setninger i kategori: 'leddsetninger-uten':
 Det er greit å holde seg innendørs når regnet pisker når vinden uler og når tordenen ruller.
@@ -58,17 +48,17 @@ Prosjektets mål var å finne ut mer om hva som hindrer og motiverer bruk av dig
 Mange svarte at de kjente seg igjen og at de opplevde alle de skisserte trekkene som relevante utfordringer for departementene.
 Elevene påstod at prøven var vanskelig at det var for mange oppgaver og at de hadde hatt for liten tid til å forberede seg.
 #
-# Setninger i kategori: 'leddsetninger-med':
-Det er greit å holde seg innendørs når regnet pisker, når vinden uler, og når tordenen ruller.
-Han kan komme hvis han har lyst, og hvis han har råd.
-For de ansatte handler det om å få reell påvirkning på hvordan arbeidsplassen deres er organisert, og hvordan arbeidsrutinene blir utviklet.
-Den tillitsvalgte bestemmer om det skal settes inn et nytt navn, eller om kandidatene skal rykke opp i uforandret rekkefølge.
-Hun ville vite hvor jeg bodde, og når jeg var å treffe.
-Attila bestemte at portene skulle lukkes, at vollen skulle besettes, og at ingen skulle forlate byen.
-Han fortalte hvor han bodde, og når han ville være hjemme.
-Prosjektets mål var å finne ut mer om hva som hindrer og motiverer bruk av digitale tjenester, og hva som skal til for å få flere til å kommunisere med forvaltningen digitalt.
-Mange svarte at de kjente seg igjen, og at de opplevde alle de skisserte trekkene som relevante utfordringer for departementene.
-Elevene påstod at prøven var vanskelig, at det var for mange oppgaver, og at de hadde hatt for liten tid til å forberede seg.
+# Leddsetninger sideordnet med konjunksjon
+Det er greit å holde seg innendørs når regnet pisker <KOMMA> når vinden uler <KOMMA> og når tordenen ruller. > 2
+Han kan komme hvis han har lyst <KOMMA> og hvis han har råd. > 2
+For de ansatte handler det om å få reell påvirkning på hvordan arbeidsplassen deres er organisert <KOMMA> og hvordan arbeidsrutinene blir utviklet. > 2
+Den tillitsvalgte bestemmer om det skal settes inn et nytt navn <KOMMA> eller om kandidatene skal rykke opp i uforandret rekkefølge. > 2
+Hun ville vite hvor jeg bodde <KOMMA> og når jeg var å treffe. > 2
+Attila bestemte at portene skulle lukkes <KOMMA> at vollen skulle besettes <KOMMA> og at ingen skulle forlate byen. > 2
+Han fortalte hvor han bodde <KOMMA> og når han ville være hjemme. > 2
+Prosjektets mål var å finne ut mer om hva som hindrer og motiverer bruk av digitale tjenester <KOMMA> og hva som skal til for å få flere til å kommunisere med forvaltningen digitalt. > 2
+Mange svarte at de kjente seg igjen <KOMMA> og at de opplevde alle de skisserte trekkene som relevante utfordringer for departementene. > 2
+Elevene påstod at prøven var vanskelig <KOMMA> at det var for mange oppgaver <KOMMA> og at de hadde hatt for liten tid til å forberede seg. > 2
 #
 # Setninger i kategori: 'foranstilte-uten':
 Da han kom gikk jeg.
