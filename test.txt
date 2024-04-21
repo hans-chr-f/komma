@@ -132,76 +132,41 @@ Nordmenn drikker mer alkohol enn før <KOMMA> på tross av myndighetenes anbefal
 Sofie lyver fremdeles <KOMMA> til tross for at vi ikke tror på henne. > 602
 I sommer skal vi ut av landet <KOMMA> blant annet til Hellas og Tyrkia. > 602
 #
-# Setninger i kategori: ‘to-eller-flere-predikater-til-ett-subjekt-med’:
-Knut har strikket ferdig genseren, og allerede tatt den i bruk.
-Møtet har begynt, og varer i en time.
-Alle har kommet, og sitter i sofaen med et glass vin.
-Einar gjorde det bedre enn alle andre, og tok gullet hjem.
-Amanda jobbet på bar i studietiden, og hadde nok av regninger å betale.
-Hun skrev en masteroppgave i litteratur, og håpte å få jobb i forlag.
-Turid kjørte kabrioleten, og lot Mercedes-en stå i garasjen.
-Husleien går opp, og har nå doblet seg på ti år.
-Eiendomsmeglere ser seg om etter flere kunder, og kommer oftere hjem til folk enn før.
-Deigen står fremdeles i ovnen, og har hevet i en time nå.
+# Setninger med to eller flere predikater til ett subjekt.
+Knut har strikket ferdig genseren <IKKE> og allerede tatt den i bruk. > 7
+Møtet har begynt <IKKE> og varer i en time. > 7
+Alle har kommet <IKKE> og sitter i sofaen med et glass vin. > 7
+Einar gjorde det bedre enn alle andre <IKKE> og tok gullet hjem. > 7
+Amanda jobbet på bar i studietiden <IKKE> og hadde nok av regninger å betale. > 7
+Hun skrev en masteroppgave i litteratur <IKKE> og håpte å få jobb i forlag. > 7
+Turid kjørte kabrioleten <IKKE> og lot Mercedes-en stå i garasjen. > 7
+Husleien går opp <IKKE> og har nå doblet seg på ti år. > 7
+Eiendomsmeglere ser seg om etter flere kunder <IKKE> og kommer oftere hjem til folk enn før. > 7
+Deigen står fremdeles i ovnen <IKKE> og har hevet i en time nå. > 7
 #
-# Setninger i kategori: ‘to-eller-flere-predikater-til-ett-subjekt-uten’:
-Knut har strikket ferdig genseren og allerede tatt den i bruk.
-Møtet har begynt og varer i en time.
-Alle har kommet og sitter i sofaen med et glass vin.
-Einar gjorde det bedre enn alle andre og tok gullet hjem.
-Amanda jobbet på bar i studietiden og hadde nok av regninger å betale.
-Hun skrev en masteroppgave i litteratur og håpte å få jobb i forlag.
-Turid kjørte kabrioleten og lot Mercedes-en stå i garasjen.
-Husleien går opp og har nå doblet seg på ti år.
-Eiendomsmeglere ser seg om etter flere kunder og kommer oftere hjem til folk enn før.
-Deigen står fremdeles i ovnen og har hevet i en time nå.
+# Setninger med preposisjonsstyrt infinitiv og andre ikke setningsformede ledd.
+For å være trygg på veien <IKKE> må man ha på seg sikkerhetsbelte. > 8
+Alle kommer for å høre meg lese <IKKE> og for å få et bilde med meg. > 8
+Å ta vare på norske verdier <IKKE> er noe enkelte politikere virker opptatte av. > 8
+Å snakke om Ibsen-festivalen i det uendelige <IKKE> er ikke noe jeg er interessert i. > 8
+Du må sørge for å ha kaldt nok vann i springen <IKKE> når barna kommer. > 8
+Å synge høyt i dusjen <IKKE> tror jeg er noe alle liker. > 8
+En urokkelig selvtillit og nok kunnskap om det rette temaet <IKKE> vil få deg hvor som helst. > 8
+Et parfymert brev med noen velvalgte ord fra en hemmelig beundrer <IKKE> lå i postkassen min i går. > 8
+Spørsmålet om å gifte seg <IKKE> er ennå altfor tidlig å ta opp. > 8
+For å beskytte deg mot bakterier <IKKE> er det viktig at du bruker hansker. > 8
 #
-# Setninger i kategori: ‘preposisjonsstyrt-infinitiv-og-andre-ikke-setningsformede-ledd-med:
-For å være trygg på veien, må man ha på seg sikkerhetsbelte.
-Alle kommer for å høre meg lese, og for å få et bilde med meg.
-Å ta vare på norske verdier, er noe enkelte politikere virker opptatte av.
-Å snakke om Ibsen-festivalen i det uendelige, er ikke noe jeg er interessert i.
-Du må sørge for å ha kaldt nok vann i springen, når barna kommer.
-Å synge høyt i dusjen, tror jeg er noe alle liker.
-En urokkelig selvtillit og nok kunnskap om det rette temaet, vil få deg hvor som helst.
-Et parfymert brev med noen velvalgte ord fra en hemmelig beundrer, lå i postkassen min i går.
-Spørsmålet om å gifte seg, er ennå altfor tidlig å ta opp.
-For å beskytte deg mot bakterier, er det viktig at du bruker hansker.
-Setninger i kategori: ‘preposisjonsstyrt-infinitiv-og-andre-ikke-setningsformede-ledd-uten’:
-For å være trygg på veien må man ha på seg sikkerhetsbelte.
-Alle kommer for å høre meg lese og for å få et bilde med meg.
-Å ta vare på norske verdier er noe enkelte politikere virker opptatte av.
-Å snakke om Ibsen-festivalen i det uendelige er ikke noe jeg er interessert i.
-Du må sørge for å ha kaldt nok vann i springen når barna kommer.
-Å synge høyt i dusjen tror jeg er noe alle liker.
-En urokkelig selvtillit og nok kunnskap om det rette temaet vil få deg hvor som helst.
-Et parfymert brev med noen velvalgte ord fra en hemmelig beundrer lå i postkassen min i går.
-Spørsmålet om å gifte seg er ennå altfor tidlig å ta opp.
-For å beskytte deg mot bakterier er det viktig at du bruker hansker.
-#
-# Setninger i kategori: ‘ufullstendige-leddsetninger-med’:
-Han ville vite hvor lenge, og hva legen ellers kunne gjøre for ham.
-Bøker skrevet av anerkjente forfattere, blir som regel mer populære etter forfatterens død.
-Beiter tråkket ned av kyr, vokser som regel bedre enn andre beiter.
-Iskrem dyppet i sjokolade, er det beste jeg vet.
-Ungen kledd i snekkerbukse, ser ut som han må på toalettet.
-Bruksanvisningen sier oss hvordan, og hva som er veien videre.
-Bilder publisert på sosiale medier, mister brukeren opphavsretten til.
-Teaterstykket sett av tusener, skal nå på verdensturné.
-Tyggegummien klistret fast under skoen min, går ikke an å få bort.
-Huset solgt i forrige uke, gikk for en million over takst.
-#
-# Setninger i kategori: ‘ufullstendige-leddsetninger-uten’:
-Han ville vite hvor lenge og hva legen ellers kunne gjøre for ham.
-Bøker skrevet av anerkjente forfattere blir som regel mer populære etter forfatterens død.
-Beiter tråkket ned av kyr vokser som regel bedre enn andre beiter.
-Iskrem dyppet i sjokolade er det beste jeg vet.
-Ungen kledd i snekkerbukse ser ut som han må på toalettet.
-Bruksanvisningen sier oss hvordan og hva som er veien videre.
-Bilder publisert på sosiale medier mister brukeren opphavsretten til.
-Teaterstykket sett av tusener skal nå på verdensturné.
-Tyggegummien klistret fast under skoen min går ikke an å få bort.
-Huset solgt i forrige uke gikk for en million over takst.
+# Setninger med ufullstendige leddsetninger
+Han ville vite hvor lenge <IKKE> og hva legen ellers kunne gjøre for ham. > 9
+Bøker skrevet av anerkjente forfattere  <IKKE> blir som regel mer populære etter forfatterens død. > 9
+Beiter tråkket ned av kyr <IKKE> vokser som regel bedre enn andre beiter. > 9
+Iskrem dyppet i sjokolade <IKKE> er det beste jeg vet. > 9
+Ungen kledd i snekkerbukse <IKKE> ser ut som han må på toalettet. > 9
+Bruksanvisningen sier oss hvordan <IKKE> og hva som er veien videre. > 9
+Bilder publisert på sosiale medier <IKKE> mister brukeren opphavsretten til. > 9
+Teaterstykket sett av tusener <IKKE> skal nå på verdensturné. > 9
+Tyggegummien klistret fast under skoen min <IKKE> går ikke an å få bort. > 9
+Huset solgt i forrige uke <IKKE> gikk for en million over takst. > 9
 #
 # Setninger i kategori: ‘leddsetning-siste-ledd-i-annen-leddsetning-med’:
 Jeg kjenner mange som går på universitetet, som utsetter å levere.
