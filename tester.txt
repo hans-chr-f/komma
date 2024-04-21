@@ -84,42 +84,29 @@ Spisebordet vårt <KOMMA> et respatexbord <KOMMA> henger ikke sammen lenger. > 5
 Katten til mor <KOMMA> en norsk skogkatt <KOMMA> forsvant i går. > 501
 Flyet <KOMMA> en Widerøe-modell <KOMMA> vinglet mye på vei opp i luften. > 501
 #
-# Setninger i kategori: 'innskudd-med':
-Det er i den utenlandske litteraturen, først og fremst den engelske, han henter forbilder for å vise at skjønnlitteratur kan inngå aktivt formende i politiske endringsprosesser.
-Harare, forklarte hun, het tidligere Salisbury.
-En vinter, det må ha vært i 1990, bodde han i USA.
-Det samme gjelder svensk og dansk, tysk må vi heller ikke glemme, som bruker begrepene Literaturforschung og Literaturkritik.
-Hun var, sa hun, helt utkjørt av alt bråket.
-De var villige til å spille videre, forklarte de, dersom reglene ble overholdt.
-Den nye naboen, han har nettopp flyttet inn, ser hyggelig ut.
-Sfinksens gåte, blant andre Henrik Ibsen refererer til den, er kanskje verdens eldste.
-Kåre Hansen, han har vært medlem i mange år, har ennå ikke betalt kontingenten.
-Den nye boka til Karsten Alnes, jeg har selvfølgelig lest den, er rost opp i skyene.
+# Setninger med tillegg inni helsetninger.
+Mia og Trine <KOMMA> blant andre <KOMMA> kom for sent til første time. > 502
+Karl valgte <KOMMA> til tross for dårlig vær <KOMMA> å sykle til jobben. > 502
+Pengene på sparekontoen <KOMMA> derimot <KOMMA> vokser hver dag. > 502
+Det er også viktig <KOMMA> om ikke det viktigste <KOMMA> å ha på seg hjelm. > 502
+Hold deg <KOMMA> med mindre annet blir sagt <KOMMA> inni vognen til konduktøren kommer. > 502
+Mats fikk øye på <KOMMA> uten å være forberedt på det <KOMMA> det nedbrente huset sitt. > 502
+De fleste dager i året <KOMMA> med bare noen få unntak <KOMMA> tar jeg et kveldsbad. > 502
+Karsten ville <KOMMA> enda alle advarte ham mot det <KOMMA> renne ned den bratteste bakken. > 502
+Tøyen <KOMMA> for eksempel <KOMMA> er et sted mange unge søker seg til. > 502
+Midnatt <KOMMA> det vil si klokka tolv <KOMMA> skal alle lys være av. > 502
 #
-#
-# Setninger i kategori: ‘tillegg-inni-helsetning-uten':
-Mia og Trine blant andre kom for sent til første time.
-Karl valgte til tross for dårlig vær å sykle til jobben.
-Pengene på sparekontoen derimot vokser hver dag.
-Det er også viktig om ikke det viktigste å ha på seg hjelm.
-Hold deg med mindre annet blir sagt inni vognen til konduktøren kommer.
-Mats fikk øye på uten å være forberedt på det det nedbrente huset sitt.
-De fleste dager i året med bare noen få unntak tar jeg et kveldsbad.
-Karsten ville enda alle advarte ham mot det renne ned den bratteste bakken.
-Tøyen for eksempel er et sted mange unge søker seg til.
-Midnatt det vil si klokka tolv skal alle lys være av.
-#
-# Setninger i kategori: ‘tillegg-inni-helsetning-med’:
-Mia og Trine, blant andre, kom for sent til første time.
-Karl valgte, til tross for dårlig vær, å sykle til jobben.
-Pengene på sparekontoen, derimot, vokser hver dag.
-Det er også viktig, om ikke det viktigste, å ha på seg hjelm.
-Hold deg, med mindre annet blir sagt, inni vognen til konduktøren kommer.
-Mats fikk øye på, uten å være forberedt på det, det nedbrente huset sitt.
-De fleste dager i året, med bare noen få unntak, tar jeg et kveldsbad.
-Karsten ville, enda alle advarte ham mot det, renne ned den bratteste bakken.
-Tøyen, for eksempel, er et sted mange unge søker seg til.
-Midnatt, det vil si klokka tolv, skal alle lys være av.
+# Setninger med innskudd inni helsetninger
+Det er i den utenlandske litteraturen <KOMMA> først og fremst den engelske <KOMMA> han henter forbilder for å vise at skjønnlitteratur kan inngå aktivt formende i politiske endringsprosesser. > 503
+Harare <KOMMA> forklarte hun <KOMMA> het tidligere Salisbury. > 503
+En vinter <KOMMA> det må ha vært i 1990 <KOMMA> bodde han i USA. > 503
+Det samme gjelder svensk og dansk <KOMMA> tysk må vi heller ikke glemme <KOMMA> som bruker begrepene Literaturforschung og Literaturkritik. > 503
+Hun var <KOMMA> sa hun <KOMMA> helt utkjørt av alt bråket. > 503
+De var villige til å spille videre <KOMMA> forklarte de <KOMMA> dersom reglene ble overholdt. > 503
+Den nye naboen <KOMMA> han har nettopp flyttet inn <KOMMA> ser hyggelig ut. > 503
+Sfinksens gåte <KOMMA> blant andre Henrik Ibsen refererer til den <KOMMA> er kanskje verdens eldste. > 503
+Kåre Hansen <KOMMA> han har vært medlem i mange år <KOMMA> har ennå ikke betalt kontingenten. > 503
+Den nye boka til Karsten Alnes <KOMMA> jeg har selvfølgelig lest den <KOMMA> er rost opp i skyene. > 503
 #
 # Setninger i kategori: ‘apposisjon-til-slutt-i-helsetning-uten':
 Mormor har kjøpt seg ny bolig en villa på Frogner.
