@@ -1,0 +1,358 @@
+# Enkle setninger uten komma
+Det er fint vær ute.
+Stortinget skal drøfte skattesaken på nytt.
+Det vil bli harde tider på arbeidsmarkedet.
+Det vil sikkert bli forsinkelser.
+Til sommeren har vi bodd her i sju år.
+Det var lett å overtale Sverre til å bli med.
+Styret vedtok å legge ned bedriften.
+Jeg har ikke lest boka.
+Den korteste grammatiske rekkevidden gir den videste tolkningen.
+Vi hadde nådd det hvis vi hadde stått tidligere opp.
+#
+# Setninger fra NOU-er
+Deretter presenterer utvalget informasjon om elevenes læringsresultater og læringsmiljø.
+Her refererer utvalget til funn fra en forskningsoppsummering.
+Kapitlet inneholder en egen del om organiseringen av opplæringen.
+Videre i kapitlet beskriver utvalget de ansatte i skolen og deres kompetanse.
+Helt til sist i kapitlet blir tall over kostnader til kvalitetsvurderingssystemet presentert.
+Grunnskoleopplæringen skal normalt starte det kalenderåret barnet fyller seks år.
+Plikten kan ivaretas i en offentlig grunnskole eller gjennom annen tilsvarende opplæring.
+Utvalgets arbeid er avgrenset til å omfatte grunnskolen og de studieforberedende utdanningsprogrammene i den videregående opplæringen.
+Studieforberedende utdanningsprogrammer er et treårig studieforløp.
+I tillegg er staten eier av de statlige samiske videregående skolene.
+#
+# Setninger i kategori: 'helsetninger-uten':
+Eva klatrer og Ola går på ski.
+Trine klatrer Jens sykler og Ola går på ski.
+Skjuler han seg eller har han flyktet eller er han død?
+Små byger varer lenge men plutselige stormer er korte.
+Jeg kan ikke uttale meg for jeg var ikke til stede.
+Hun tidde så fikk rektor tro hva han ville.
+Petter skiftet jobb for tredje gang på to år og Aud fulgte opp med sin andre skilsmisse på to år.
+På kjøkkenbordet står brødet og kaffekannen har jeg satt på benken.
+I 2015 ble spørreskjemaet sendt i posten men det kunne også besvares på internett.
+Flyktningene har ventet lenge men nå ser det ut til å bli en løsning.
+#
+# Setninger i kategori: 'helsetninger-med':
+Eva klatrer, og Ola går på ski.
+Trine klatrer, Jens sykler, og Ola går på ski.
+Skjuler han seg, eller har han flyktet, eller er han død?
+Små byger varer lenge, men plutselige stormer er korte.
+Jeg kan ikke uttale meg, for jeg var ikke til stede.
+Hun tidde, så rektor fikk tro hva han ville.
+Petter skiftet jobb for tredje gang på to år, og Aud fulgte opp med sin andre skilsmisse på to år.
+På kjøkkenbordet står brødet, og kaffekannen har jeg satt på benken.
+I 2015 ble spørreskjemaet sendt i posten, men det kunne også besvares på internett.
+Flyktningene har ventet lenge, men nå ser det ut til å bli en løsning.
+#
+# Setninger i kategori: 'leddsetninger-uten':
+Det er greit å holde seg innendørs når regnet pisker når vinden uler og når tordenen ruller.
+Han kan komme hvis han har lyst og hvis han har råd.
+For de ansatte handler det om å få reell påvirkning på hvordan arbeidsplassen deres er organisert og hvordan arbeidsrutinene blir utviklet.
+Den tillitsvalgte bestemmer om det skal settes inn et nytt navn eller om kandidatene skal rykke opp i uforandret rekkefølge.
+Hun ville vite hvor jeg bodde og når jeg var å treffe.
+Attila bestemte at portene skulle lukkes at vollen skulle besettes og at ingen skulle forlate byen.
+Han fortalte hvor han bodde og når han ville være hjemme.
+Prosjektets mål var å finne ut mer om hva som hindrer og motiverer bruk av digitale tjenester og hva som skal til for å få flere til å kommunisere med forvaltningen digitalt.
+Mange svarte at de kjente seg igjen og at de opplevde alle de skisserte trekkene som relevante utfordringer for departementene.
+Elevene påstod at prøven var vanskelig at det var for mange oppgaver og at de hadde hatt for liten tid til å forberede seg.
+#
+# Setninger i kategori: 'leddsetninger-med':
+Det er greit å holde seg innendørs når regnet pisker, når vinden uler, og når tordenen ruller.
+Han kan komme hvis han har lyst, og hvis han har råd.
+For de ansatte handler det om å få reell påvirkning på hvordan arbeidsplassen deres er organisert, og hvordan arbeidsrutinene blir utviklet.
+Den tillitsvalgte bestemmer om det skal settes inn et nytt navn, eller om kandidatene skal rykke opp i uforandret rekkefølge.
+Hun ville vite hvor jeg bodde, og når jeg var å treffe.
+Attila bestemte at portene skulle lukkes, at vollen skulle besettes, og at ingen skulle forlate byen.
+Han fortalte hvor han bodde, og når han ville være hjemme.
+Prosjektets mål var å finne ut mer om hva som hindrer og motiverer bruk av digitale tjenester, og hva som skal til for å få flere til å kommunisere med forvaltningen digitalt.
+Mange svarte at de kjente seg igjen, og at de opplevde alle de skisserte trekkene som relevante utfordringer for departementene.
+Elevene påstod at prøven var vanskelig, at det var for mange oppgaver, og at de hadde hatt for liten tid til å forberede seg.
+#
+# Setninger i kategori: 'foranstilte-uten':
+Da han kom gikk jeg.
+Da kelterne fikk høre om dette nølte de ikke.
+Når det gjelder penger klarer han seg bra.
+Når rommet forlates etter kl. 18 skal porten låses.
+Som han har vist er det et etruskisk land.
+Enda fagene er vanskelige er elevene fornøyde.
+Når pasienten ikke har samtykket skal forespørselen behandles manuelt.
+Hva han enn foretar seg har han lykken med seg.
+Når samtalen starter skal barnet og foreldrene gjøres kjent med at de ikke har plikt til å forklare seg.
+Når avsnittet er avsluttet må du se over om det er skrevet riktig.
+#
+# Setninger i kategori: 'foranstilte-med':
+Da han kom, gikk jeg.
+Da kelterne fikk høre om dette, nølte de ikke.
+Når det gjelder penger, klarer han seg bra.
+Når rommet forlates etter kl. 18, skal porten låses.
+Som han har vist, er det et etruskisk land.
+Enda fagene er vanskelige, er elevene fornøyde.
+Når pasienten ikke har samtykket, skal forespørselen behandles manuelt.
+Hva han enn foretar seg, har han lykken med seg.
+Når samtalen starter, skal barnet og foreldrene gjøres kjent med at de ikke har plikt til å forklare seg.
+Når avsnittet er avsluttet, må du se over om det er skrevet riktig.
+#
+# Setninger i kategori: 'innskutte-leddsetninger-uten':
+De klaget på at reglene ikke ble overholdt og nektet å spille videre.
+De sørget over at katten var blitt overkjørt og holdt seg hjemme hele helgen.
+Et folk som bare formår å skape en slik betydningsløs litteratur er som en flue på en vogn trukket av fire hester.
+Kunnskapen som foreligger viser at tjenestene ikke involverer barn og foreldrene i undersøkelsen i tilstrekkelig grad.
+Den kunnskapen som foreligger tyder på at barnevernstjenestens praksis ikke samsvarer tilstrekkelig med lovens intensjon.
+Maten vi spiste i går var elendig.
+Vi fester oss mer ved hvordan han skriver enn ved det han skriver om.
+Boken som lå på bordet var min.
+I den byen der han bodde var han nesten ukjent.
+Folkerettslig står påstanden om at angrepskrig stempler den ene parten som kriminell svakt.
+#
+# Setninger i kategori: 'innskutte-leddsetninger-med':
+De klaget på at reglene ikke ble overholdt, og nektet å spille videre.
+De sørget over at katten var blitt overkjørt, og holdt seg hjemme hele helgen.
+Et folk som bare formår å skape en slik betydningsløs litteratur, er som en flue på en vogn trukket av fire hester.
+Kunnskapen som foreligger, viser at tjenestene ikke involverer barn og foreldrene i undersøkelsen i tilstrekkelig grad.
+Den kunnskapen som foreligger, tyder på at barnevernstjenestens praksis ikke samsvarer tilstrekkelig med lovens intensjon.
+Maten vi spiste i går, var elendig.
+Vi fester oss mer ved hvordan han skriver, enn ved det han skriver om.
+Boken som lå på bordet, var min.
+I den byen der han bodde, var han nesten ukjent.
+Folkerettslig står påstanden om at angrepskrig stempler den ene parten som kriminell, svakt.
+#
+# Setninger i kategori: 'innskudd-uten':
+Det er i den utenlandske litteraturen først og fremst den engelske han henter forbilder for å vise at skjønnlitteratur kan inngå aktivt formende i politiske endringsprosesser.
+Harare forklarte hun het tidligere Salisbury.
+En vinter det må ha vært i 1990 bodde han i USA.
+Det samme gjelder svensk og dansk tysk må vi heller ikke glemme som bruker begrepene Literaturforschung og Literaturkritik.
+Hun var sa hun helt utkjørt av alt bråket.
+De var villige til å spille videre forklarte de dersom reglene ble overholdt.
+Den nye naboen han har nettopp flyttet inn ser hyggelig ut.
+Sfinksens gåte blant andre Henrik Ibsen refererer til den er kanskje verdens eldste.
+Kåre Hansen han har vært medlem i mange år har ennå ikke betalt kontingenten.
+Den nye boka til Karsten Alnes jeg har selvfølgelig lest den er rost opp i skyene.
+#
+# Setninger i kategori: 'innskudd-med':
+Det er i den utenlandske litteraturen, først og fremst den engelske, han henter forbilder for å vise at skjønnlitteratur kan inngå aktivt formende i politiske endringsprosesser.
+Harare, forklarte hun, het tidligere Salisbury.
+En vinter, det må ha vært i 1990, bodde han i USA.
+Det samme gjelder svensk og dansk, tysk må vi heller ikke glemme, som bruker begrepene Literaturforschung og Literaturkritik.
+Hun var, sa hun, helt utkjørt av alt bråket.
+De var villige til å spille videre, forklarte de, dersom reglene ble overholdt.
+Den nye naboen, han har nettopp flyttet inn, ser hyggelig ut.
+Sfinksens gåte, blant andre Henrik Ibsen refererer til den, er kanskje verdens eldste.
+Kåre Hansen, han har vært medlem i mange år, har ennå ikke betalt kontingenten.
+Den nye boka til Karsten Alnes, jeg har selvfølgelig lest den, er rost opp i skyene.
+#
+# Setninger i kategori: 'apposisjon-inni-helsetning-uten':
+Martin den eneste kokken på plattformen dro hjem i går.
+Molde Norges jazzhovedstad ønsker nye musikere velkommen.
+Ingebrigtsen-brødrene Norges VM-håp tok gull igjen.
+Stuen værelset folk flest tilbringer mest tid i er malt i en livlig farge.
+Desserten i dag jordbær med fløte og sukker er virkelig noe å glede seg til.
+Matbutikken nærmest meg Kiwi har tilbud på røkelaks.
+Gressklipperen til naboen et kupp han gjorde på Jula står i hagen hans.
+Spisebordet vårt et respatexbord henger ikke sammen lenger.
+Katten til mor en norsk skogkatt forsvant i går.
+Flyet en Widerøe-modell vinglet mye på vei opp i luften.
+#
+# Setninger i kategori: 'apposisjon-inni-helsetning-med’:
+Martin, den eneste kokken på plattformen, dro hjem i går.
+Molde, Norges jazzhovedstad, ønsker nye musikere velkommen.
+Ingebrigtsen-brødrene, Norges VM-håp, tok gull igjen.
+Stuen, værelset folk flest tilbringer mest tid i, er malt i en livlig farge.
+Desserten i dag, jordbær med fløte og sukker, er virkelig noe å glede seg til.
+Matbutikken nærmest meg, Kiwi, har tilbud på røkelaks.
+Gressklipperen til naboen, et kupp han gjorde på Jula, står i hagen hans.
+Spisebordet vårt, et respatexbord, henger ikke sammen lenger.
+Katten til mor, en norsk skogkatt, forsvant i går.
+Flyet, en Widerøe-modell, vinglet mye på vei opp i luften.
+#
+# Setninger i kategori: ‘tillegg-inni-helsetning-uten':
+Mia og Trine blant andre kom for sent til første time.
+Karl valgte til tross for dårlig vær å sykle til jobben.
+Pengene på sparekontoen derimot vokser hver dag.
+Det er også viktig om ikke det viktigste å ha på seg hjelm.
+Hold deg med mindre annet blir sagt inni vognen til konduktøren kommer.
+Mats fikk øye på uten å være forberedt på det det nedbrente huset sitt.
+De fleste dager i året med bare noen få unntak tar jeg et kveldsbad.
+Karsten ville enda alle advarte ham mot det renne ned den bratteste bakken.
+Tøyen for eksempel er et sted mange unge søker seg til.
+Midnatt det vil si klokka tolv skal alle lys være av.
+#
+# Setninger i kategori: ‘tillegg-inni-helsetning-med’:
+Mia og Trine, blant andre, kom for sent til første time.
+Karl valgte, til tross for dårlig vær, å sykle til jobben.
+Pengene på sparekontoen, derimot, vokser hver dag.
+Det er også viktig, om ikke det viktigste, å ha på seg hjelm.
+Hold deg, med mindre annet blir sagt, inni vognen til konduktøren kommer.
+Mats fikk øye på, uten å være forberedt på det, det nedbrente huset sitt.
+De fleste dager i året, med bare noen få unntak, tar jeg et kveldsbad.
+Karsten ville, enda alle advarte ham mot det, renne ned den bratteste bakken.
+Tøyen, for eksempel, er et sted mange unge søker seg til.
+Midnatt, det vil si klokka tolv, skal alle lys være av.
+#
+# Setninger i kategori: ‘apposisjon-til-slutt-i-helsetning-uten':
+Mormor har kjøpt seg ny bolig en villa på Frogner.
+Mobilen min har en ny funksjon å finne nøklene mine når jeg ikke finner dem.
+Jeg solgte den siste boka på salget en krim av Jo Nesbø.
+Hun har fått ny stillingstittel seniorkonsulent.
+Ektemannen ga henne blomster en bukett med roser.
+Husverten har installert nytt toalett et penere enn det jeg hadde før.
+Kom tilbake om en time klokka elleve.
+Til jul fikk jeg favorittrasen min en russisk mynde.
+Jeg lengter tilbake til hjembyen min Stavanger.
+Mange i familien døde av tarmkreft en sykdom flere og flere overlever.
+#
+# Setninger i kategori: ‘apposisjon-til-slutt-i-helsetning-med’:
+Mormor har kjøpt seg ny bolig, en villa på Frogner.
+Mobilen min har en ny funksjon, å finne nøklene mine når jeg ikke finner dem.
+Jeg solgte den siste boka på salget, en krim av Jo Nesbø.
+Hun har fått ny stillingstittel, seniorkonsulent.
+Ektemannen ga henne blomster, en bukett med roser.
+Husverten har installert nytt toalett, et penere enn det jeg hadde før.
+Kom tilbake om en time, klokka elleve.
+Til jul fikk jeg favorittrasen min, en russisk mynde.
+Jeg lengter tilbake til hjembyen min, Stavanger.
+Mange i familien døde av tarmkreft, en sykdom flere og flere overlever.
+#
+# Setninger i kategori: ‘tillegg-til-slutt-i-helsetning-uten’:
+Jeg hører på alt mulig blant annet danseband og trønderrock.
+Hun leser bare én avis nemlig Aftenposten.
+Jeg har kjøpt meg nye klær blant annet en strikket genser og et par svarte bukser.
+I Oslo ligger det to store sykehus nemlig Rikshospitalet og Ullevål sykehus.
+Vi fikk mye forskjellig til lunsj i dag blant annet ostesmørbrød og pastasalat.
+Morten har vært innom en haug av skoler i dag blant andre Bjølsen skole og Voldsløkka skole.
+Jeg har kjøpt meg moped enda mor har bedt meg la være.
+Nordmenn drikker mer alkohol enn før på tross av myndighetenes anbefalinger.
+Sofie lyver fremdeles til tross for at vi ikke tror på henne.
+I sommer skal vi ut av landet blant annet til Hellas og Tyrkia.
+#
+# Setninger i kategori: ‘tillegg-til-slutt-i-helsetning-med’:
+Jeg hører på alt mulig, blant annet danseband og trønderrock.
+Hun leser bare én avis, nemlig Aftenposten.
+Jeg har kjøpt meg nye klær, blant annet en strikket genser og et par svarte bukser.
+I Oslo ligger det to store sykehus, nemlig Rikshospitalet og Ullevål sykehus.
+Vi fikk mye forskjellig til lunsj i dag, blant annet ostesmørbrød og pastasalat.
+Morten har vært innom en haug av skoler i dag, blant andre Bjølsen skole og Voldsløkka skole.
+Jeg har kjøpt meg moped, enda mor har bedt meg la være.
+Nordmenn drikker mer alkohol enn før, på tross av myndighetenes anbefalinger.
+Sofie lyver fremdeles, til tross for at vi ikke tror på henne.
+I sommer skal vi ut av landet, blant annet til Hellas og Tyrkia.
+#
+# Setninger i kategori: ‘to-eller-flere-predikater-til-ett-subjekt-med’:
+Knut har strikket ferdig genseren, og allerede tatt den i bruk.
+Møtet har begynt, og varer i en time.
+Alle har kommet, og sitter i sofaen med et glass vin.
+Einar gjorde det bedre enn alle andre, og tok gullet hjem.
+Amanda jobbet på bar i studietiden, og hadde nok av regninger å betale.
+Hun skrev en masteroppgave i litteratur, og håpte å få jobb i forlag.
+Turid kjørte kabrioleten, og lot Mercedes-en stå i garasjen.
+Husleien går opp, og har nå doblet seg på ti år.
+Eiendomsmeglere ser seg om etter flere kunder, og kommer oftere hjem til folk enn før.
+Deigen står fremdeles i ovnen, og har hevet i en time nå.
+#
+# Setninger i kategori: ‘to-eller-flere-predikater-til-ett-subjekt-uten’:
+Knut har strikket ferdig genseren og allerede tatt den i bruk.
+Møtet har begynt og varer i en time.
+Alle har kommet og sitter i sofaen med et glass vin.
+Einar gjorde det bedre enn alle andre og tok gullet hjem.
+Amanda jobbet på bar i studietiden og hadde nok av regninger å betale.
+Hun skrev en masteroppgave i litteratur og håpte å få jobb i forlag.
+Turid kjørte kabrioleten og lot Mercedes-en stå i garasjen.
+Husleien går opp og har nå doblet seg på ti år.
+Eiendomsmeglere ser seg om etter flere kunder og kommer oftere hjem til folk enn før.
+Deigen står fremdeles i ovnen og har hevet i en time nå.
+#
+# Setninger i kategori: ‘preposisjonsstyrt-infinitiv-og-andre-ikke-setningsformede-ledd-med:
+For å være trygg på veien, må man ha på seg sikkerhetsbelte.
+Alle kommer for å høre meg lese, og for å få et bilde med meg.
+Å ta vare på norske verdier, er noe enkelte politikere virker opptatte av.
+Å snakke om Ibsen-festivalen i det uendelige, er ikke noe jeg er interessert i.
+Du må sørge for å ha kaldt nok vann i springen, når barna kommer.
+Å synge høyt i dusjen, tror jeg er noe alle liker.
+En urokkelig selvtillit og nok kunnskap om det rette temaet, vil få deg hvor som helst.
+Et parfymert brev med noen velvalgte ord fra en hemmelig beundrer, lå i postkassen min i går.
+Spørsmålet om å gifte seg, er ennå altfor tidlig å ta opp.
+For å beskytte deg mot bakterier, er det viktig at du bruker hansker.
+Setninger i kategori: ‘preposisjonsstyrt-infinitiv-og-andre-ikke-setningsformede-ledd-uten’:
+For å være trygg på veien må man ha på seg sikkerhetsbelte.
+Alle kommer for å høre meg lese og for å få et bilde med meg.
+Å ta vare på norske verdier er noe enkelte politikere virker opptatte av.
+Å snakke om Ibsen-festivalen i det uendelige er ikke noe jeg er interessert i.
+Du må sørge for å ha kaldt nok vann i springen når barna kommer.
+Å synge høyt i dusjen tror jeg er noe alle liker.
+En urokkelig selvtillit og nok kunnskap om det rette temaet vil få deg hvor som helst.
+Et parfymert brev med noen velvalgte ord fra en hemmelig beundrer lå i postkassen min i går.
+Spørsmålet om å gifte seg er ennå altfor tidlig å ta opp.
+For å beskytte deg mot bakterier er det viktig at du bruker hansker.
+#
+# Setninger i kategori: ‘ufullstendige-leddsetninger-med’:
+Han ville vite hvor lenge, og hva legen ellers kunne gjøre for ham.
+Bøker skrevet av anerkjente forfattere, blir som regel mer populære etter forfatterens død.
+Beiter tråkket ned av kyr, vokser som regel bedre enn andre beiter.
+Iskrem dyppet i sjokolade, er det beste jeg vet.
+Ungen kledd i snekkerbukse, ser ut som han må på toalettet.
+Bruksanvisningen sier oss hvordan, og hva som er veien videre.
+Bilder publisert på sosiale medier, mister brukeren opphavsretten til.
+Teaterstykket sett av tusener, skal nå på verdensturné.
+Tyggegummien klistret fast under skoen min, går ikke an å få bort.
+Huset solgt i forrige uke, gikk for en million over takst.
+#
+# Setninger i kategori: ‘ufullstendige-leddsetninger-uten’:
+Han ville vite hvor lenge og hva legen ellers kunne gjøre for ham.
+Bøker skrevet av anerkjente forfattere blir som regel mer populære etter forfatterens død.
+Beiter tråkket ned av kyr vokser som regel bedre enn andre beiter.
+Iskrem dyppet i sjokolade er det beste jeg vet.
+Ungen kledd i snekkerbukse ser ut som han må på toalettet.
+Bruksanvisningen sier oss hvordan og hva som er veien videre.
+Bilder publisert på sosiale medier mister brukeren opphavsretten til.
+Teaterstykket sett av tusener skal nå på verdensturné.
+Tyggegummien klistret fast under skoen min går ikke an å få bort.
+Huset solgt i forrige uke gikk for en million over takst.
+#
+# Setninger i kategori: ‘leddsetning-siste-ledd-i-annen-leddsetning-med’:
+Jeg kjenner mange som går på universitetet, som utsetter å levere.
+Maria vet ikke om noen som får barn, som ikke flytter ut av byen.
+Sykepleieren fortalte meg at det var viktig for henne, at jeg møtte opp til timen.
+Læreren påpekte at Kant sa, at moral er viktig.
+Hun mente at man ikke lenger kunne si, at kunst er like tilgjengelig for alle.
+Jeg sto lenge og så på maleriet som ble stilt ut i forrige uke, som ble stjålet dagen etter åpningen.
+Nyhetene dreier seg om et fly som landet i fjellene, som ingen ennå har funnet.
+Katrine sa meg en gang at alt dreide seg om, at hun fikk det bedre i parforholdet.
+I sommer vil jeg til ei hytte som har en hageflekk, som har plass til bord og stoler.
+Jone spiser aldri kjøtt som kommer fra gårder, som behandler dyrene dårlig.
+#
+# Setninger i kategori: ‘leddsetning-siste-ledd-i-annen-leddsetning-uten’:
+Jeg kjenner mange som går på universitetet som utsetter å levere.
+Maria vet ikke om noen som får barn som ikke flytter ut av byen.
+Sykepleieren fortalte meg at det var viktig for henne at jeg møtte opp til timen.
+Læreren påpekte at Kant sa at moral er viktig.
+Hun mente at man ikke lenger kunne si at kunst er like tilgjengelig for alle.
+Jeg sto lenge og så på maleriet som ble stilt ut i forrige uke som ble stjålet dagen etter åpningen.
+Nyhetene dreier seg om et fly som landet i fjellene som ingen ennå har funnet.
+Katrine sa meg en gang at alt dreide seg om at hun fikk det bedre i parforholdet.
+I sommer vil jeg til ei hytte som har en hageflekk som har plass til bord og stoler.
+Jone spiser aldri kjøtt som kommer fra gårder som behandler dyrene dårlig.
+#
+# Setninger i kategori: ‘oppramsinger–uten’
+Verken barn voksne studenter eller pensjonister reiser gratis med kollektivtransport.
+I Oslo kan du velge mellom båt buss trikk og t-bane.
+På fatet i stuen ligger det både epler bananer pærer og mandariner.
+Frida har en fisk en papegøye og to katter.
+Du kan enten lese romaner noveller skuespill eller dikt.
+Kantarell steinsopp og sjampinjong går fint å spise.
+Vi har valget mellom Sognsvann Åklungen Tjuvholmen og Sørenga.
+Stoppskilt fotgjengerskilt og rundkjøringskilt er viktige å følge med på.
+Undersøkelsen påviste mangel på vitamin B C og D.
+Kongen dronningen kronprinsen og kronprinsessen står på balkongen og vinker.
+#
+# Setninger i kategori: ‘oppramsinger–med’
+Verken barn, voksne, studenter eller pensjonister reiser gratis med kollektivtransport.
+I Oslo kan du velge mellom båt, buss, trikk og t-bane.
+På fatet i stuen ligger det både epler, bananer, pærer og mandariner.
+Frida har en fisk, en papegøye og to katter.
+Du kan enten lese romaner, noveller, skuespill eller dikt.
+Kantarell, steinsopp og sjampinjong går fint å spise.
+Vi har valget mellom Sognsvann, Åklungen, Tjuvholmen og Sørenga.
+Stoppskilt, fotgjengerskilt og rundkjøringskilt er viktige å følge med på.
+Undersøkelsen påviste mangel på vitamin B, C og D.
+Kongen, dronningen, kronprinsen og kronprinsessen står på balkongen og vinker.
