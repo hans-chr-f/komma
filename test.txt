@@ -108,53 +108,29 @@ Sfinksens gåte <KOMMA> blant andre Henrik Ibsen refererer til den <KOMMA> er ka
 Kåre Hansen <KOMMA> han har vært medlem i mange år <KOMMA> har ennå ikke betalt kontingenten. > 503
 Den nye boka til Karsten Alnes <KOMMA> jeg har selvfølgelig lest den <KOMMA> er rost opp i skyene. > 503
 #
-# Setninger i kategori: ‘apposisjon-til-slutt-i-helsetning-uten':
-Mormor har kjøpt seg ny bolig en villa på Frogner.
-Mobilen min har en ny funksjon å finne nøklene mine når jeg ikke finner dem.
-Jeg solgte den siste boka på salget en krim av Jo Nesbø.
-Hun har fått ny stillingstittel seniorkonsulent.
-Ektemannen ga henne blomster en bukett med roser.
-Husverten har installert nytt toalett et penere enn det jeg hadde før.
-Kom tilbake om en time klokka elleve.
-Til jul fikk jeg favorittrasen min en russisk mynde.
-Jeg lengter tilbake til hjembyen min Stavanger.
-Mange i familien døde av tarmkreft en sykdom flere og flere overlever.
+# Setninger med apposisjon til slutt i helsetning
+Mormor har kjøpt seg ny bolig <KOMMA> en villa på Frogner. > 601
+Mobilen min har en ny funksjon <KOMMA> å finne nøklene mine når jeg ikke finner dem. > 601
+Jeg solgte den siste boka på salget <KOMMA> en krim av Jo Nesbø. > 601
+Hun har fått ny stillingstittel <KOMMA> seniorkonsulent. > 601
+Ektemannen ga henne blomster <KOMMA> en bukett med roser. > 601
+Husverten har installert nytt toalett <KOMMA> et penere enn det jeg hadde før. > 601
+Kom tilbake om en time <KOMMA> klokka elleve. > 601
+Til jul fikk jeg favorittrasen min <KOMMA> en russisk mynde. > 601
+Jeg lengter tilbake til hjembyen min <KOMMA> Stavanger. > 601
+Mange i familien døde av tarmkreft <KOMMA> en sykdom flere og flere overlever. > 601
 #
-# Setninger i kategori: ‘apposisjon-til-slutt-i-helsetning-med’:
-Mormor har kjøpt seg ny bolig, en villa på Frogner.
-Mobilen min har en ny funksjon, å finne nøklene mine når jeg ikke finner dem.
-Jeg solgte den siste boka på salget, en krim av Jo Nesbø.
-Hun har fått ny stillingstittel, seniorkonsulent.
-Ektemannen ga henne blomster, en bukett med roser.
-Husverten har installert nytt toalett, et penere enn det jeg hadde før.
-Kom tilbake om en time, klokka elleve.
-Til jul fikk jeg favorittrasen min, en russisk mynde.
-Jeg lengter tilbake til hjembyen min, Stavanger.
-Mange i familien døde av tarmkreft, en sykdom flere og flere overlever.
-#
-# Setninger i kategori: ‘tillegg-til-slutt-i-helsetning-uten’:
-Jeg hører på alt mulig blant annet danseband og trønderrock.
-Hun leser bare én avis nemlig Aftenposten.
-Jeg har kjøpt meg nye klær blant annet en strikket genser og et par svarte bukser.
-I Oslo ligger det to store sykehus nemlig Rikshospitalet og Ullevål sykehus.
-Vi fikk mye forskjellig til lunsj i dag blant annet ostesmørbrød og pastasalat.
-Morten har vært innom en haug av skoler i dag blant andre Bjølsen skole og Voldsløkka skole.
-Jeg har kjøpt meg moped enda mor har bedt meg la være.
-Nordmenn drikker mer alkohol enn før på tross av myndighetenes anbefalinger.
-Sofie lyver fremdeles til tross for at vi ikke tror på henne.
-I sommer skal vi ut av landet blant annet til Hellas og Tyrkia.
-#
-# Setninger i kategori: ‘tillegg-til-slutt-i-helsetning-med’:
-Jeg hører på alt mulig, blant annet danseband og trønderrock.
-Hun leser bare én avis, nemlig Aftenposten.
-Jeg har kjøpt meg nye klær, blant annet en strikket genser og et par svarte bukser.
-I Oslo ligger det to store sykehus, nemlig Rikshospitalet og Ullevål sykehus.
-Vi fikk mye forskjellig til lunsj i dag, blant annet ostesmørbrød og pastasalat.
-Morten har vært innom en haug av skoler i dag, blant andre Bjølsen skole og Voldsløkka skole.
-Jeg har kjøpt meg moped, enda mor har bedt meg la være.
-Nordmenn drikker mer alkohol enn før, på tross av myndighetenes anbefalinger.
-Sofie lyver fremdeles, til tross for at vi ikke tror på henne.
-I sommer skal vi ut av landet, blant annet til Hellas og Tyrkia.
+# Setninger med tillegg til slutt i helsetninger
+Jeg hører på alt mulig <KOMMA> blant annet danseband og trønderrock. > 602
+Hun leser bare én avis <KOMMA> nemlig Aftenposten. > 602
+Jeg har kjøpt meg nye klær <KOMMA> blant annet en strikket genser og et par svarte bukser. > 602
+I Oslo ligger det to store sykehus <KOMMA> nemlig Rikshospitalet og Ullevål sykehus. > 602
+Vi fikk mye forskjellig til lunsj i dag <KOMMA> blant annet ostesmørbrød og pastasalat. > 602
+Morten har vært innom en haug av skoler i dag <KOMMA> blant andre Bjølsen skole og Voldsløkka skole. > 602
+Jeg har kjøpt meg moped <KOMMA> enda mor har bedt meg la være. > 602
+Nordmenn drikker mer alkohol enn før <KOMMA> på tross av myndighetenes anbefalinger. > 602
+Sofie lyver fremdeles <KOMMA> til tross for at vi ikke tror på henne. > 602
+I sommer skal vi ut av landet <KOMMA> blant annet til Hellas og Tyrkia. > 602
 #
 # Setninger i kategori: ‘to-eller-flere-predikater-til-ett-subjekt-med’:
 Knut har strikket ferdig genseren, og allerede tatt den i bruk.
