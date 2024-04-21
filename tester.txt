@@ -336,13 +336,13 @@ Undersøkelsen påviste mangel på vitamin B C og D.
 Kongen dronningen kronprinsen og kronprinsessen står på balkongen og vinker.
 #
 # Setninger i kategori: ‘oppramsinger–med’
-Verken barn, voksne, studenter eller pensjonister reiser gratis med kollektivtransport.
-I Oslo kan du velge mellom båt, buss, trikk og t-bane.
-På fatet i stuen ligger det både epler, bananer, pærer og mandariner.
-Frida har en fisk, en papegøye og to katter.
-Du kan enten lese romaner, noveller, skuespill eller dikt.
-Kantarell, steinsopp og sjampinjong går fint å spise.
-Vi har valget mellom Sognsvann, Åklungen, Tjuvholmen og Sørenga.
-Stoppskilt, fotgjengerskilt og rundkjøringskilt er viktige å følge med på.
-Undersøkelsen påviste mangel på vitamin B, C og D.
-Kongen, dronningen, kronprinsen og kronprinsessen står på balkongen og vinker.
+Verken barn <KOMMA> voksne <KOMMA> studenter eller pensjonister reiser gratis med kollektivtransport.
+I Oslo kan du velge mellom båt <KOMMA> buss <KOMMA> trikk og t-bane.
+På fatet i stuen ligger det både epler <KOMMA> bananer <KOMMA> pærer og mandariner.
+Frida har en fisk <KOMMA> en papegøye og to katter.
+Du kan enten lese romaner <KOMMA> noveller <KOMMA> skuespill eller dikt.
+Kantarell <KOMMA> steinsopp og sjampinjong går fint å spise.
+Vi har valget mellom Sognsvann <KOMMA> Åklungen <KOMMA> Tjuvholmen og Sørenga.
+Stoppskilt <KOMMA> fotgjengerskilt og rundkjøringskilt er viktige å følge med på.
+Undersøkelsen påviste mangel på vitamin B <KOMMA> C og D.
+Kongen <KOMMA> dronningen <KOMMA> kronprinsen og kronprinsessen står på balkongen og vinker.
