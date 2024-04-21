@@ -168,29 +168,29 @@ Teaterstykket sett av tusener <IKKE> skal nå på verdensturné. > 9
 Tyggegummien klistret fast under skoen min <IKKE> går ikke an å få bort. > 9
 Huset solgt i forrige uke <IKKE> gikk for en million over takst. > 9
 #
-# Setninger i kategori: ‘leddsetning-siste-ledd-i-annen-leddsetning-med’:
-Jeg kjenner mange som går på universitetet, som utsetter å levere.
-Maria vet ikke om noen som får barn, som ikke flytter ut av byen.
-Sykepleieren fortalte meg at det var viktig for henne, at jeg møtte opp til timen.
-Læreren påpekte at Kant sa, at moral er viktig.
-Hun mente at man ikke lenger kunne si, at kunst er like tilgjengelig for alle.
-Jeg sto lenge og så på maleriet som ble stilt ut i forrige uke, som ble stjålet dagen etter åpningen.
-Nyhetene dreier seg om et fly som landet i fjellene, som ingen ennå har funnet.
-Katrine sa meg en gang at alt dreide seg om, at hun fikk det bedre i parforholdet.
-I sommer vil jeg til ei hytte som har en hageflekk, som har plass til bord og stoler.
-Jone spiser aldri kjøtt som kommer fra gårder, som behandler dyrene dårlig.
+# Helsetninger med leddsetninger som står som siste ledd i en annen leddsetning
+Jeg kjenner mange som går på universitetet <IKKE> som utsetter å levere. 
+Maria vet ikke om noen som får barn <IKKE> som ikke flytter ut av byen.
+Sykepleieren fortalte meg at det var viktig for henne <IKKE> at jeg møtte opp til timen.
+Læreren påpekte at Kant sa <IKKE> at moral er viktig.
+Hun mente at man ikke lenger kunne si <IKKE> at kunst er like tilgjengelig for alle.
+Jeg sto lenge og så på maleriet som ble stilt ut i forrige uke <IKKE> som ble stjålet dagen etter åpningen.
+Nyhetene dreier seg om et fly som landet i fjellene <IKKE> som ingen ennå har funnet.
+Katrine sa meg en gang at alt dreide seg om <IKKE> at hun fikk det bedre i parforholdet.
+I sommer vil jeg til ei hytte som har en hageflekk <IKKE> som har plass til bord og stoler.
+Jone spiser aldri kjøtt som kommer fra gårder <IKKE> som behandler dyrene dårlig.
 #
 # Setninger i kategori: ‘leddsetning-siste-ledd-i-annen-leddsetning-uten’:
-Jeg kjenner mange som går på universitetet som utsetter å levere.
-Maria vet ikke om noen som får barn som ikke flytter ut av byen.
-Sykepleieren fortalte meg at det var viktig for henne at jeg møtte opp til timen.
-Læreren påpekte at Kant sa at moral er viktig.
-Hun mente at man ikke lenger kunne si at kunst er like tilgjengelig for alle.
-Jeg sto lenge og så på maleriet som ble stilt ut i forrige uke som ble stjålet dagen etter åpningen.
-Nyhetene dreier seg om et fly som landet i fjellene som ingen ennå har funnet.
-Katrine sa meg en gang at alt dreide seg om at hun fikk det bedre i parforholdet.
-I sommer vil jeg til ei hytte som har en hageflekk som har plass til bord og stoler.
-Jone spiser aldri kjøtt som kommer fra gårder som behandler dyrene dårlig.
+Jeg kjenner mange som går på universitetet som utsetter å levere. > 10
+Maria vet ikke om noen som får barn som ikke flytter ut av byen. > 10
+Sykepleieren fortalte meg at det var viktig for henne at jeg møtte opp til timen. > 10
+Læreren påpekte at Kant sa at moral er viktig. > 10
+Hun mente at man ikke lenger kunne si at kunst er like tilgjengelig for alle. > 10
+Jeg sto lenge og så på maleriet som ble stilt ut i forrige uke som ble stjålet dagen etter åpningen. > 10
+Nyhetene dreier seg om et fly som landet i fjellene som ingen ennå har funnet. > 10
+Katrine sa meg en gang at alt dreide seg om at hun fikk det bedre i parforholdet. > 10
+I sommer vil jeg til ei hytte som har en hageflekk som har plass til bord og stoler. > 10
+Jone spiser aldri kjøtt som kommer fra gårder som behandler dyrene dårlig. > 10
 #
 # Setninger med oppramsinger
 Verken barn <KOMMA> voksne <KOMMA> studenter eller pensjonister reiser gratis med kollektivtransport. > 11
