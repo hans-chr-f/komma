@@ -36,18 +36,6 @@ På kjøkkenbordet står brødet <KOMMA> og kaffekannen har jeg satt på benken.
 I 2015 ble spørreskjemaet sendt i posten <KOMMA> men det kunne også besvares på internett. > 1
 Flyktningene har ventet lenge <KOMMA> men nå ser det ut til å bli en løsning. > 1
 #
-# Setninger i kategori: 'leddsetninger-uten':
-Det er greit å holde seg innendørs når regnet pisker når vinden uler og når tordenen ruller.
-Han kan komme hvis han har lyst og hvis han har råd.
-For de ansatte handler det om å få reell påvirkning på hvordan arbeidsplassen deres er organisert og hvordan arbeidsrutinene blir utviklet.
-Den tillitsvalgte bestemmer om det skal settes inn et nytt navn eller om kandidatene skal rykke opp i uforandret rekkefølge.
-Hun ville vite hvor jeg bodde og når jeg var å treffe.
-Attila bestemte at portene skulle lukkes at vollen skulle besettes og at ingen skulle forlate byen.
-Han fortalte hvor han bodde og når han ville være hjemme.
-Prosjektets mål var å finne ut mer om hva som hindrer og motiverer bruk av digitale tjenester og hva som skal til for å få flere til å kommunisere med forvaltningen digitalt.
-Mange svarte at de kjente seg igjen og at de opplevde alle de skisserte trekkene som relevante utfordringer for departementene.
-Elevene påstod at prøven var vanskelig at det var for mange oppgaver og at de hadde hatt for liten tid til å forberede seg.
-#
 # Leddsetninger sideordnet med konjunksjon
 Det er greit å holde seg innendørs når regnet pisker <KOMMA> når vinden uler <KOMMA> og når tordenen ruller. > 2
 Han kan komme hvis han har lyst <KOMMA> og hvis han har råd. > 2
@@ -60,65 +48,41 @@ Prosjektets mål var å finne ut mer om hva som hindrer og motiverer bruk av dig
 Mange svarte at de kjente seg igjen <KOMMA> og at de opplevde alle de skisserte trekkene som relevante utfordringer for departementene. > 2
 Elevene påstod at prøven var vanskelig <KOMMA> at det var for mange oppgaver <KOMMA> og at de hadde hatt for liten tid til å forberede seg. > 2
 #
-# Setninger i kategori: 'foranstilte-uten':
-Da han kom gikk jeg.
-Da kelterne fikk høre om dette nølte de ikke.
-Når det gjelder penger klarer han seg bra.
-Når rommet forlates etter kl. 18 skal porten låses.
-Som han har vist er det et etruskisk land.
-Enda fagene er vanskelige er elevene fornøyde.
-Når pasienten ikke har samtykket skal forespørselen behandles manuelt.
-Hva han enn foretar seg har han lykken med seg.
-Når samtalen starter skal barnet og foreldrene gjøres kjent med at de ikke har plikt til å forklare seg.
-Når avsnittet er avsluttet må du se over om det er skrevet riktig.
+# Setninger med foranstilt leddsetning
+Da han kom <KOMMA> gikk jeg. > 3
+Da kelterne fikk høre om dette <KOMMA> nølte de ikke. > 3
+Når det gjelder penger <KOMMA> klarer han seg bra. > 3
+Når rommet forlates etter kl. 18 <KOMMA> skal porten låses. > 3
+Som han har vist <KOMMA> er det et etruskisk land. > 3
+Enda fagene er vanskelige <KOMMA> er elevene fornøyde. > 3
+Når pasienten ikke har samtykket <KOMMA> skal forespørselen behandles manuelt. > 3
+Hva han enn foretar seg <KOMMA> har han lykken med seg. > 3
+Når samtalen starter <KOMMA> skal barnet og foreldrene gjøres kjent med at de ikke har plikt til å forklare seg. > 3
+Når avsnittet er avsluttet <KOMMA> må du se over om det er skrevet riktig. > 3
 #
-# Setninger i kategori: 'foranstilte-med':
-Da han kom, gikk jeg.
-Da kelterne fikk høre om dette, nølte de ikke.
-Når det gjelder penger, klarer han seg bra.
-Når rommet forlates etter kl. 18, skal porten låses.
-Som han har vist, er det et etruskisk land.
-Enda fagene er vanskelige, er elevene fornøyde.
-Når pasienten ikke har samtykket, skal forespørselen behandles manuelt.
-Hva han enn foretar seg, har han lykken med seg.
-Når samtalen starter, skal barnet og foreldrene gjøres kjent med at de ikke har plikt til å forklare seg.
-Når avsnittet er avsluttet, må du se over om det er skrevet riktig.
+# Setninger med innskutte leddsetninger
+De klaget på at reglene ikke ble overholdt <KOMMA> og nektet å spille videre. > 4
+De sørget over at katten var blitt overkjørt <KOMMA> og holdt seg hjemme hele helgen. > 4
+Et folk som bare formår å skape en slik betydningsløs litteratur <KOMMA> er som en flue på en vogn trukket av fire hester. > 4
+Kunnskapen som foreligger <KOMMA> viser at tjenestene ikke involverer barn og foreldrene i undersøkelsen i tilstrekkelig grad. > 4
+Den kunnskapen som foreligger <KOMMA> tyder på at barnevernstjenestens praksis ikke samsvarer tilstrekkelig med lovens intensjon. > 4
+Maten vi spiste i går <KOMMA> var elendig. > 4
+Vi fester oss mer ved hvordan han skriver <KOMMA> enn ved det han skriver om. > 4
+Boken som lå på bordet <KOMMA> var min. > 4
+I den byen der han bodde <KOMMA> var han nesten ukjent. > 4
+Folkerettslig står påstanden om at angrepskrig stempler den< ene parten som kriminell <KOMMA> svakt. > 4
 #
-# Setninger i kategori: 'innskutte-leddsetninger-uten':
-De klaget på at reglene ikke ble overholdt og nektet å spille videre.
-De sørget over at katten var blitt overkjørt og holdt seg hjemme hele helgen.
-Et folk som bare formår å skape en slik betydningsløs litteratur er som en flue på en vogn trukket av fire hester.
-Kunnskapen som foreligger viser at tjenestene ikke involverer barn og foreldrene i undersøkelsen i tilstrekkelig grad.
-Den kunnskapen som foreligger tyder på at barnevernstjenestens praksis ikke samsvarer tilstrekkelig med lovens intensjon.
-Maten vi spiste i går var elendig.
-Vi fester oss mer ved hvordan han skriver enn ved det han skriver om.
-Boken som lå på bordet var min.
-I den byen der han bodde var han nesten ukjent.
-Folkerettslig står påstanden om at angrepskrig stempler den ene parten som kriminell svakt.
-#
-# Setninger i kategori: 'innskutte-leddsetninger-med':
-De klaget på at reglene ikke ble overholdt, og nektet å spille videre.
-De sørget over at katten var blitt overkjørt, og holdt seg hjemme hele helgen.
-Et folk som bare formår å skape en slik betydningsløs litteratur, er som en flue på en vogn trukket av fire hester.
-Kunnskapen som foreligger, viser at tjenestene ikke involverer barn og foreldrene i undersøkelsen i tilstrekkelig grad.
-Den kunnskapen som foreligger, tyder på at barnevernstjenestens praksis ikke samsvarer tilstrekkelig med lovens intensjon.
-Maten vi spiste i går, var elendig.
-Vi fester oss mer ved hvordan han skriver, enn ved det han skriver om.
-Boken som lå på bordet, var min.
-I den byen der han bodde, var han nesten ukjent.
-Folkerettslig står påstanden om at angrepskrig stempler den ene parten som kriminell, svakt.
-#
-# Setninger i kategori: 'innskudd-uten':
-Det er i den utenlandske litteraturen først og fremst den engelske han henter forbilder for å vise at skjønnlitteratur kan inngå aktivt formende i politiske endringsprosesser.
-Harare forklarte hun het tidligere Salisbury.
-En vinter det må ha vært i 1990 bodde han i USA.
-Det samme gjelder svensk og dansk tysk må vi heller ikke glemme som bruker begrepene Literaturforschung og Literaturkritik.
-Hun var sa hun helt utkjørt av alt bråket.
-De var villige til å spille videre forklarte de dersom reglene ble overholdt.
-Den nye naboen han har nettopp flyttet inn ser hyggelig ut.
-Sfinksens gåte blant andre Henrik Ibsen refererer til den er kanskje verdens eldste.
-Kåre Hansen han har vært medlem i mange år har ennå ikke betalt kontingenten.
-Den nye boka til Karsten Alnes jeg har selvfølgelig lest den er rost opp i skyene.
+# Setninger med apposisjon inni helsetning.
+Martin <KOMMA> den eneste kokken på plattformen <KOMMA> dro hjem i går. > 501
+Molde <KOMMA> Norges jazzhovedstad <KOMMA> ønsker nye musikere velkommen. > 501
+Ingebrigtsen-brødrene <KOMMA> Norges VM-håp <KOMMA> tok gull igjen. > 501
+Stuen <KOMMA> værelset folk flest tilbringer mest tid i <KOMMA> er malt i en livlig farge. > 501
+Desserten i dag <KOMMA> jordbær med fløte og sukker <KOMMA> er virkelig noe å glede seg til. > 501
+Matbutikken nærmest meg <KOMMA> Kiwi <KOMMA> har tilbud på røkelaks. > 501
+Gressklipperen til naboen <KOMMA> et kupp han gjorde på Jula <KOMMA> står i hagen hans. > 501
+Spisebordet vårt <KOMMA> et respatexbord <KOMMA> henger ikke sammen lenger. > 501
+Katten til mor <KOMMA> en norsk skogkatt <KOMMA> forsvant i går. > 501
+Flyet <KOMMA> en Widerøe-modell <KOMMA> vinglet mye på vei opp i luften. > 501
 #
 # Setninger i kategori: 'innskudd-med':
 Det er i den utenlandske litteraturen, først og fremst den engelske, han henter forbilder for å vise at skjønnlitteratur kan inngå aktivt formende i politiske endringsprosesser.
@@ -132,29 +96,6 @@ Sfinksens gåte, blant andre Henrik Ibsen refererer til den, er kanskje verdens 
 Kåre Hansen, han har vært medlem i mange år, har ennå ikke betalt kontingenten.
 Den nye boka til Karsten Alnes, jeg har selvfølgelig lest den, er rost opp i skyene.
 #
-# Setninger i kategori: 'apposisjon-inni-helsetning-uten':
-Martin den eneste kokken på plattformen dro hjem i går.
-Molde Norges jazzhovedstad ønsker nye musikere velkommen.
-Ingebrigtsen-brødrene Norges VM-håp tok gull igjen.
-Stuen værelset folk flest tilbringer mest tid i er malt i en livlig farge.
-Desserten i dag jordbær med fløte og sukker er virkelig noe å glede seg til.
-Matbutikken nærmest meg Kiwi har tilbud på røkelaks.
-Gressklipperen til naboen et kupp han gjorde på Jula står i hagen hans.
-Spisebordet vårt et respatexbord henger ikke sammen lenger.
-Katten til mor en norsk skogkatt forsvant i går.
-Flyet en Widerøe-modell vinglet mye på vei opp i luften.
-#
-# Setninger i kategori: 'apposisjon-inni-helsetning-med’:
-Martin, den eneste kokken på plattformen, dro hjem i går.
-Molde, Norges jazzhovedstad, ønsker nye musikere velkommen.
-Ingebrigtsen-brødrene, Norges VM-håp, tok gull igjen.
-Stuen, værelset folk flest tilbringer mest tid i, er malt i en livlig farge.
-Desserten i dag, jordbær med fløte og sukker, er virkelig noe å glede seg til.
-Matbutikken nærmest meg, Kiwi, har tilbud på røkelaks.
-Gressklipperen til naboen, et kupp han gjorde på Jula, står i hagen hans.
-Spisebordet vårt, et respatexbord, henger ikke sammen lenger.
-Katten til mor, en norsk skogkatt, forsvant i går.
-Flyet, en Widerøe-modell, vinglet mye på vei opp i luften.
 #
 # Setninger i kategori: ‘tillegg-inni-helsetning-uten':
 Mia og Trine blant andre kom for sent til første time.
@@ -323,26 +264,14 @@ Katrine sa meg en gang at alt dreide seg om at hun fikk det bedre i parforholdet
 I sommer vil jeg til ei hytte som har en hageflekk som har plass til bord og stoler.
 Jone spiser aldri kjøtt som kommer fra gårder som behandler dyrene dårlig.
 #
-# Setninger i kategori: ‘oppramsinger–uten’
-Verken barn voksne studenter eller pensjonister reiser gratis med kollektivtransport.
-I Oslo kan du velge mellom båt buss trikk og t-bane.
-På fatet i stuen ligger det både epler bananer pærer og mandariner.
-Frida har en fisk en papegøye og to katter.
-Du kan enten lese romaner noveller skuespill eller dikt.
-Kantarell steinsopp og sjampinjong går fint å spise.
-Vi har valget mellom Sognsvann Åklungen Tjuvholmen og Sørenga.
-Stoppskilt fotgjengerskilt og rundkjøringskilt er viktige å følge med på.
-Undersøkelsen påviste mangel på vitamin B C og D.
-Kongen dronningen kronprinsen og kronprinsessen står på balkongen og vinker.
-#
-# Setninger i kategori: ‘oppramsinger–med’
-Verken barn <KOMMA> voksne <KOMMA> studenter eller pensjonister reiser gratis med kollektivtransport.
-I Oslo kan du velge mellom båt <KOMMA> buss <KOMMA> trikk og t-bane.
-På fatet i stuen ligger det både epler <KOMMA> bananer <KOMMA> pærer og mandariner.
-Frida har en fisk <KOMMA> en papegøye og to katter.
-Du kan enten lese romaner <KOMMA> noveller <KOMMA> skuespill eller dikt.
-Kantarell <KOMMA> steinsopp og sjampinjong går fint å spise.
-Vi har valget mellom Sognsvann <KOMMA> Åklungen <KOMMA> Tjuvholmen og Sørenga.
-Stoppskilt <KOMMA> fotgjengerskilt og rundkjøringskilt er viktige å følge med på.
-Undersøkelsen påviste mangel på vitamin B <KOMMA> C og D.
-Kongen <KOMMA> dronningen <KOMMA> kronprinsen og kronprinsessen står på balkongen og vinker.
+# Setninger med oppramsinger
+Verken barn <KOMMA> voksne <KOMMA> studenter eller pensjonister reiser gratis med kollektivtransport. > 11
+I Oslo kan du velge mellom båt <KOMMA> buss <KOMMA> trikk og t-bane. > 11
+På fatet i stuen ligger det både epler <KOMMA> bananer <KOMMA> pærer og mandariner. > 11
+Frida har en fisk <KOMMA> en papegøye og to katter. > 11
+Du kan enten lese romaner <KOMMA> noveller <KOMMA> skuespill eller dikt. > 11
+Kantarell <KOMMA> steinsopp og sjampinjong går fint å spise. > 11
+Vi har valget mellom Sognsvann <KOMMA> Åklungen <KOMMA> Tjuvholmen og Sørenga. > 11
+Stoppskilt <KOMMA> fotgjengerskilt og rundkjøringskilt er viktige å følge med på. > 11
+Undersøkelsen påviste mangel på vitamin B <KOMMA> C og D. > 11
+Kongen <KOMMA> dronningen <KOMMA> kronprinsen og kronprinsessen står på balkongen og vinker. > 11
