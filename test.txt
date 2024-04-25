@@ -13,16 +13,16 @@ Den korteste grammatiske rekkevidden gir den videste tolkningen. > 99
 Vi hadde nådd det hvis vi hadde stått tidligere opp. > 99
 #
 # Komplekse setninger uten komma
-Deretter presenterer utvalget informasjon om elevenes læringsresultater og læringsmiljø. > 99
-Her refererer utvalget til funn fra en forskningsoppsummering. > 99
-Kapitlet inneholder en egen del om organiseringen av opplæringen. > 99
-Videre i kapitlet beskriver utvalget de ansatte i skolen og deres kompetanse. > 99
-Helt til sist i kapitlet blir tall over kostnader til kvalitetsvurderingssystemet presentert. > 99
-Grunnskoleopplæringen skal normalt starte det kalenderåret barnet fyller seks år. > 99
-Plikten kan ivaretas i en offentlig grunnskole eller gjennom annen tilsvarende opplæring. > 99
-Utvalgets arbeid er avgrenset til å omfatte grunnskolen og de studieforberedende utdanningsprogrammene i den videregående opplæringen. > 99
-Studieforberedende utdanningsprogrammer er et treårig studieforløp. > 99
-I tillegg er staten eier av de statlige samiske videregående skolene. > 99
+Deretter presenterer utvalget informasjon om elevenes læringsresultater og læringsmiljø og håper at fremlegget faller i god jord hos tilhørerne. > 99
+Her refererer utvalget til funn fra en forskningsoppsummering og viser videre til den forskningen som ligger bak forskningen presentert i denne rapporten. > 99
+Kapitlet inneholder en egen del om organiseringen av opplæringen og gjør ellers rede for betydningen av de fysiske læringsomgivelsene for elevenes utbytte av opplæringen. > 99
+Videre i kapitlet beskriver utvalget de ansatte i skolen og deres kompetanse og ser spesielt nøye på nivåhevingen fra lærerne ansatt på de laveste trinnene på barneskolen til lærerne ansatt på de høyeste trinnene på barneskolen. > 99
+Helt til sist i kapitlet blir tall over kostnader til kvalitetsvurderingssystemet presentert og andre systemalternativer lagt frem for å føye noen nyanser til temaet. > 99
+Grunnskoleopplæringen skal gi barnet et godt første møte med opplæring i spissede fag og temaer og skal normalt starte det kalenderåret barnet fyller seks år. > 99
+Plikten kan ivaretas i en offentlig grunnskole eller gjennom annen tilsvarende opplæring og bør ikke under noen omstendigheter som helst overses. > 99
+Utvalgets arbeid er avgrenset til å omfatte grunnskolen og de studieforberedende utdanningsprogrammene i den videregående opplæringen og har derfor dreid seg mer om å forstå en utvalgt flik av opplæringstilbudet bedre enn om å oppnå breddekunnskap om opplæringstilbudet. > 99
+Studieforberedende utdanningsprogrammer er et treårig studieforløp skreddersydd for elever på vei mot universitets- og høyskolestudier og rikholdig på kunnskap som kan hjelpe elevene godt på vei. > 99
+I tillegg er staten eier av de statlige samiske videregående skolene og har ansvar for at skolene driftes i tråd med gjeldende retningslinjer og med sikte på god morsmålsopplæring og god opplæring i andre fag. > 99
 #
 # Helsetninger sideordnet med konjunksjon
 Eva klatrer <KOMMA> og Ola går på ski. > 1
