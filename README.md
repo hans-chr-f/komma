@@ -3,7 +3,7 @@ This repository is dedicated to testing the comma placement abilities of large l
 
 - [kommaregler.json](https://github.com/hans-chr-f/komma/blob/main/kommaregler.json): A dictionary of Norwegian comma rules, where keys are arbitrary integers and values are sentences describing each rule.
 - [test.txt](https://github.com/hans-chr-f/komma/blob/main/test.txt): A list of sentences, each annotated with correct punctuation, followed by an integer that matches a key in the dictionary.
-- [train.txt](https://github.com/hans-chr-f/komma/blob/main/train.txt)): More sentences in the same format.
+- [train.txt](https://github.com/hans-chr-f/komma/blob/main/train.txt): More sentences in the same format.
 
 ## Data format
 Each line in test.txt includes one sentence. Lines that begin with '#' serve as comments. The placement of commas is marked by &lt;KOMMA&gt; where they are needed and &lt;IKKE&gt; where they are not. Each line containing &lt;KOMMA&gt; or &lt;IKKE&gt; can be split into two tests. For example:
