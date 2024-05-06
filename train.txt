@@ -297,7 +297,7 @@ Ved simultantolking [KOMMA] som brukes på konferanser og i internasjonale organ
 Kongen av Spania [KOMMA] som hadde mange og store gull- og sølvgruver [KOMMA] fikk landet sitt så dundrende konkurs flere ganger. > 502
 I det enkelte år kan forskjellige forhold [KOMMA] som konjunkturendringer eller ekstraordinære hendelser [KOMMA] føre til avvik mellom frontfagsrammen og faktisk lønnsvekst i ulike forhandlingsområder. > 502
 Entreprenørskaps- og innovasjonsbegrepene har [KOMMA] som antropologiens kulturbegrep [KOMMA] funnet veien ut på gata. > 502
-Sosial felt [KOMMA] som definert av Reidar Grønhaug [KOMMA] er en kjede av sammenhenger som kan observeres empirisk. > 502
+Sosialt felt [KOMMA] som definert av Reidar Grønhaug [KOMMA] er en kjede av sammenhenger som kan observeres empirisk. > 502
 Lønnsdannelsen [KOMMA] sammen med den økonomiske politikken [KOMMA] spiller en avgjørende rolle. > 502
 For det første medfører liminale faser [KOMMA] som altså kjennetegnes av kompleksitet og tvetydighet [KOMMA] økt narrativ produksjon. > 502
 De grønne tidslinjene [KOMMA] som i hovedsak finnes i Dagbladet og Aftenposten [KOMMA] er nesten uten historie. > 502
@@ -314,7 +314,7 @@ Også andre forskjellskapende dimensjoner [KOMMA] som seksuell orientering og fu
 Utvalget vurderer hvordan utviklingstrekk i samfunnet [KOMMA] slik som utviklingen innen teknologi og digitalisering [KOMMA] kan påvirke kjønnsulikhet i helse og helsekompetanse. > 502
 Store deler av offentlige tjenester [KOMMA] inklusive innen helse [KOMMA] er allerede digitalisert. > 502
 I denne tilnærmingen [KOMMA] som ble lansert av George Engel [KOMMA] tas det utgangspunkt i at biologiske, sosiale og psykologiske forhold påvirker vår helse. > 502
-PU har hjemmel til å benytte tvangsmidler [KOMMA] som håndjern og pepperspray [KOMMA] under visse omstendigheter. > 502
+PU har hjemmel til å benytte tvangsmidler [KOMMA] for eksempel håndjern og pepperspray [KOMMA] under visse omstendigheter. > 502
 Arbeidsmarkedspolitikken [KOMMA] sammen med utdannings- og integreringspolitikken [KOMMA] må bidra til at flest mulig kan delta i arbeidslivet. > 502
 En lav lønnsandel [KOMMA] som sammen med høy arbeidsledighet gir stabil lønns- og prisvekst i Kolsrud og Nymoens modell [KOMMA] vil innebære en lignende mekanisme i motsatt retning. > 502
 Helsepersonelloven peker på to grupper [KOMMA] nærmere bestemt leger og tannleger [KOMMA] med egne oppgaver knyttet til yrkesutøvelsen. > 502
@@ -340,7 +340,7 @@ Det er ingen nasjonal myndighet [KOMMA] og heller ikke på de lavere nivåene fi
 De siste årene har de fleste europeiske land [KOMMA] det inkluderer Norge og Finland [KOMMA] revidert eller vedtatt nytt regelverk. > 503
 Flere av Norges handelspartnere [KOMMA] vi tenker spesielt på EU [KOMMA] har igangsatt kartlegging av egne leverandørkjeder. > 503
 Utvalget har hatt som hovedoppgave [KOMMA] det er mange mindre oppgaver knyttet til denne [KOMMA] å vurdere om Norge har et tilstrekkelig regelverk. > 503
-Norge har regelverk [KOMMA] og det er omfattende [KOMMA] som åpner for at myndighetene kan begrense adgangen til å investere i foretak. > 503
+Norge har et regelverk [KOMMA] og det er omfattende [KOMMA] som åpner for at myndighetene kan begrense adgangen til å investere i foretak. > 503
 Dette [KOMMA] og det samme gjelder andre forhold [KOMMA] kan få konsekvenser for Norges økonomiske interesser. > 503
 En norsk investeringskontroll [KOMMA] det er vesentlig å få dette ordentlig på plass [KOMMA] må kunne ivareta nasjonale sikkerhetsinteresser. > 503
 For å oppnå dette må investeringskontrollen [KOMMA] og det mener utvalget [KOMMA] oppfylle visse kriterier. > 503
@@ -367,9 +367,9 @@ God samhandling mellom apotek og helsepersonell [KOMMA] og det gjelder også and
 Overgangen til et lavutslippssamfunn [KOMMA] det er satt klare mål om å oppnå det før 2050 [KOMMA] krever politisk lederskap. > 503
 Tre av møtene [KOMMA] alle ble gjennomført fysisk [KOMMA] ble kombinert med forskjellige studiebesøk i henholdsvis Trondheim og Stavanger. > 503
 Utvalget har hatt to åpne nettmøter [KOMMA] begge hadde mange påmeldte [KOMMA] hvor det har vært åpent for å sende skriftlige innspill i etterkant. > 503
-Det andre nettmøtet [KOMMA] vi avholdt det i begynnelsen av juli 2022 [KOMMA] presenterte utvalgets midtveisrapport fra juni 2022. > 503
+På det andre nettmøtet [KOMMA] vi avholdt det i begynnelsen av juli 2022 [KOMMA] ble utvalgets midtveisrapport fra juni 2022 presentert. > 503
 Begge arrangementene [KOMMA] det i Stavanger like mye som det i Oslo [KOMMA] var godt besøkte. > 503
-Referat fra diskusjonsmøtene [KOMMA] det er ført i pennen av utvalgets redaktør [KOMMA] er lagt ut på utvalgets hjemmesider. > 503
+Referat fra diskusjonsmøtene [KOMMA] det er ført i pennen av utvalgets redaktør [KOMMA] er lagt ut på utvalgets hjemmeside. > 503
 Parallelt med Klimautvalgets arbeid [KOMMA] det har nå pågått over en lengre periode [KOMMA] har andre utvalg arbeidet med beslektede temaer. > 503
 Disse er utarbeidet på forskjellige tidspunkt [KOMMA] noen tidlig og andre sent i arbeidet [KOMMA] og er dermed ikke nødvendigvis oppdaterte. > 503
 Norge [KOMMA] og det samme kan sies om Sverige [KOMMA] har naturgitte fordeler og teknologisk kompetanse for geologisk lagring. > 503
@@ -403,7 +403,7 @@ Det gjelder for eksempel Senter for tverrprofesjonell samarbeidslæring [KOMMA] 
 En tredje årsak blir i økonomisk faglitteratur omtalt som hysterese [KOMMA] en betegnelse på en situasjon hvor et midlertidig sjokk får en varig effekt. > 601
 Utvalget slutter opp om frontfagsmodellen [KOMMA] en viktig bærebjelke i lønnsdannelsen i Norge. > 601
 Den danske forhandlingsordningen om lønn bygger på Fælleserklæringen av 1987 [KOMMA] en trepartsavtale mellom de danske hovedorganisasjonene på arbeidstakersiden og regjeringen. > 601
-For eksempel argumenterer han for påvirkningen av forskjellige skatteregimers forbindelse med energikrisen i EU på tallene fra driftsresultatet, [KOMMA] en residual i nasjonalregnskapssammenheng. > 601
+For eksempel argumenterer han for påvirkningen av forskjellige skatteregimers forbindelse med energikrisen i EU på tallene fra driftsresultatet [KOMMA] en residual i nasjonalregnskapssammenheng. > 601
 Det kan ha sammenheng med økt sysselsetting innen oljeutvinning [KOMMA] en næring med høy lønnsevne. > 601
 Artikkelen er gitt med tanke på å styrke rettighetene til barn med nedsatt funksjonsevne [KOMMA] en persongruppe med større sjans enn andre for å komme i sårbare situasjoner. > 601
 Mental Health Tribunal behandler også klager over community treatment order [KOMMA] en form for tvungent psykisk helsevern uten døgnopphold. > 601
@@ -423,7 +423,7 @@ Tonnasjeskatten er en bruttoskatt [KOMMA] en lite effektiv skatteform. > 601
 Tilsynet utøver denne rollen i samarbeid med Nordic Financial CERT [KOMMA] en nordisk organisasjon. > 601
 Klage over vedtak behandles av Erhvervsankenævnet [KOMMA] en uavhengig klagenemnd. > 601
 Veileder i gynekologi utgis og oppdateres av Norsk gynekologisk forening [KOMMA] en fagmedisinsk forening under Den norske legeforening. > 601
-Innføringen av direktivet medførte opprettelsen av Legemiddelverifiseringssystemet [KOMMA] et pan-europeisk system. > 601
+Innføringen av direktivet medførte opprettelsen av Legemiddelverifiseringssystemet [KOMMA] et paneuropeisk system. > 601
 Endoser er en forutsetning for lukket legemiddelsløyfe ved sykehusene [KOMMA] et tiltak som sikrer utdeling av rett legemiddel til rett pasient. > 601
 Apotekene bruker apoteksystemet FarmaPro [KOMMA] et datasystem primært for utlevering og salg av legemidler og apotekvarer. > 601
 I 2010 utarbeidet departementet Fosterhjemsavtalen [KOMMA] en standardavtale til bruk ved inngåelse av et fosterhjemsoppdrag. > 601
@@ -449,9 +449,9 @@ Det ville vært rimelig å koble oljeutvinning tettere til klimaendringer [KOMMA
 De velger å stille opp [KOMMA] ofte på tross av antakelser om ubehaget ved å bli eksponert. > 602
 Intervjuer med kilder publiseres oftest i mediene i kraft av en rolle [KOMMA] gjerne en maktposisjon. > 602
 Institusjonen må tilpasse seg [KOMMA] ikke barnet. > 602
-Man kunne ha koblet det til en annen side av det norske oljeeventyret [KOMMA] nemlig at det hele startet med en storstilt statlig satsning. > 602
+Man kunne ha koblet det til en annen side av det norske oljeeventyret [KOMMA] nemlig at det hele startet med en storstilt statlig satsing. > 602
 Samfunnsfaktorer er i noen deler av forskningslitteraturen omtalt som de mest tyngende faktorene på tegnspråkene [KOMMA] uten at det er gjort greie for foreldrenes rolle i utviklingen. > 602
-Det er enten ubalanse eller balanse [KOMMA] som er tingenes idealtilstand. > 602
+Det gjelder også ved balanse [KOMMA] som er tingenes idealtilstand. > 602
 I mange tilfeller blir fjerntolking brukt [KOMMA] hvor tolken er med på telefon. > 602
 Finanspolitikken skal bidra til en stabil og bærekraftig utvikling i økonomien [KOMMA] herunder høy sysselsetting og jevn inntektsfordeling. > 602
 Gode og varierte muligheter til å bruke språket gagner alle språkbrukerne [KOMMA] uansett hvilket forhold de har til språket. > 602
@@ -475,7 +475,7 @@ Forebyggingsenheten anmodet PU om å gi en oversikt over bruken av tvangsmidler 
 I 98 ledsagede uttransporter hadde man benyttet body-cuff [KOMMA] én gang i kombinasjon med beskyttelseshjelm. > 602
 Banker og kredittforetak skal følge reglene for store foretak i regnskapsloven [KOMMA] inkludert plikten til å utarbeide redegjørelse om samfunnsansvar. > 602
 Informasjon om bærekraft vil også være nyttig for andre nasjonale myndigheter [KOMMA] som miljømyndigheter. > 602
-En slik hovedregel bør kombineres med en unntakshjemmel [KOMMA] slik at det i forskrift kan fastsettes enklere rapporteringskrav. > 602
+En slik hovedregel bør kombineres med en unntakshjemmel [KOMMA] slik at det i forskrift kan bli fastsatt enklere rapporteringskrav. > 602
 Medlemsstatene kan unnta datterselskaper fra alle pliktene i direktivet på nærmere vilkår [KOMMA] blant annet kravet om å godta at selskapet ikke utarbeider årsregnskap. > 602
 Forslaget om etablering av et Nasjonalt kompetansesenter om vold i nære relasjoner ble lagt fram [KOMMA] i tillegg til en rekke tiltak knyttet til kompetanse og forskning på tvers av sektorer og fagområder. > 602
 Utvalget beskriver rollen til biologiske kjønnsforskjeller i en rekke sykdommer [KOMMA] som demens og psykiske lidelser. > 602
@@ -503,7 +503,7 @@ Dette er positivt [IKKE] og kan føre til økt kvalitet på tolkene i framtiden.
 Kapitlene byr på rik etnografi [IKKE] og kobler entreprenørskap og innebygdhet. > 7
 Begrepet liminal fase kommer fra sosialantropologien [IKKE] og er opprinnelig en betegnelse på den midtre delen av overgangsritualer. > 7
 De tre navngitte kommentatorene er opptatte av klimastoff [IKKE] og har vært med på å løfte temaet i den offentlige debatten. > 7
-Kvinnehelse er satt på dagsorden [IKKE] og har fått økt oppmerksomhet de siste årene. > 7
+Kvinnehelse er satt på dagsordenen [IKKE] og har fått økt oppmerksomhet de siste årene. > 7
 I Nettavisen er koblingen tydeligst [IKKE] og blir gjort gjennom klimarisikoargumenter og en markedslogikk. > 7
 En journalist har sitt oppdrag fra offentligheten [IKKE] og må opptre profesjonelt og uavhengig. > 7
 Kilden eier historien [IKKE] og har derfor et stort engasjement. > 7
@@ -525,13 +525,13 @@ I tredje del drøfter vi veivalg på veien mot lavutslippssamfunnet [IKKE] og di
 Det vil forsterke eksisterende problemer [IKKE] og vil drive mennesker på flukt. > 7
 Noen slike konsekvenser er allerede tydelige [IKKE] og kan med stor sikkerhet knyttes til menneskeskapte klimaendringer. > 7
 Hvert nye bidrag må være mer ambisiøst enn det forrige [IKKE] og må reflektere et så høyt ambisjonsnivå̊ som mulig. > 7
-Derfor må beslutninger med langtrekkende konsekvenser ta hensyn til dette [IKKE] og må bidra til et lavutslippssamfunn. > 7
+Derfor må beslutninger med langtrekkende konsekvenser ta hensyn til dette [IKKE] og bidra til et lavutslippssamfunn. > 7
 EU går foran i den globale klimainnsatsen [IKKE] og legger avgjørende rammer for Norges omstilling til et lavutslippssamfunn. > 7
 Det samiske samfunnet har historiske rettigheter til landarealer [IKKE] og forvalter en tusenårig naturavhengig kultur. > 7
 Økte klimarelaterte utgifter vil innebære lavere pengebruk på andre områder [IKKE] og tvinger frem vanskelige prioriteringer. > 7
 Fraværet av et systematisk arbeid er påfallende [IKKE] og står i kontrast til den politiske ambisjonen om å løfte kvinnehelsefeltet. > 7
 Kroniske vulvasmerter rammer kvinner i alle aldre [IKKE] og kan gi betydelige helseplager. > 7
-Flere lidelser er ofte sammensatte [IKKE] og krever tverrfaglig samarbeid og samordning mellom forskjellig tjenesteleverandører. > 7
+Flere lidelser er ofte sammensatte [IKKE] og krever tverrfaglig samarbeid og samordning mellom forskjellige tjenesteleverandører. > 7
 #
 # 8. Det skal ikke være komma etter preposisjonsstyrte infinitiver og andre ikke-setningsformede ledd
 De har handlet enten om å se språklig likestilling som det beste politiske grepet [IKKE] eller om å oppvurdere medisinsk teknologi. > 8
@@ -615,7 +615,7 @@ Her kommer det som nevnt [IKKE] krav fra EU. > 9
 Frontfagsmodellen har som nevnt i avsnitt 4.5 [IKKE] klare likhetstrekk med lønnsdannelsen i flere nordeuropeiske land. > 9
 Vernepleiere regnes som nevnt [IKKE] som autorisert helsepersonell og som sosialfaglig personell. > 9
 Som nevnt i kapittel 2 [IKKE] står privat sektor for størstedelen av tannbehandling for voksne. > 9
-Som nevnt [IKKE] er det foreslått at noen LIS1-stillinger på sikt skal kobles opp mot videre spesialisering i psykiatri og i allmennmedisin. > 9
+Som nevnt [IKKE] er det foreslått at noen LIS1-stillinger på sikt skal bli koblet opp mot videre spesialisering i psykiatri og i allmennmedisin. > 9
 Som nevnt [IKKE] må manglene sees opp mot arbeidsledigheten i sektoren. > 9
 Som nevnt [IKKE] er det forskjellige definisjoner innad i spesialisthelsetjenesten. > 9
 Som nevnt [IKKE] peker helsepersonelloven på to grupper med egne arbeidsoppgaver. > 9
@@ -625,9 +625,9 @@ Som nevnt i punktet om søkning og studieplasser [IKKE] er det mange søkere på
 Som nevnt [IKKE] ble det i 2017 innført forskriftsfestede tilleggskrav for autorisasjon for helsepersonell med utdanning fra land utenfor EØS og Sveits. > 9
 Som nevnt i kapittel 4 [IKKE] utgjør kvinner 90 prosent av studentene innen helse- og velferdsfag på fagskoler. > 9
 Som nevnt i kapittel 4 [IKKE] utgjør personell med innvandringsbakgrunn og ikke-bosatte en betydelig og økende andel av de sysselsatte i kommunale helse- og omsorgstjenester. > 9
-Som nevnt i punkt 4.2 [IKKE] er en reell rettighetshaver den som i siste instans en juridisk person. > 9
+Som nevnt i punkt 4.2 [IKKE] er en reell rettighetshaver den som i siste instans er en juridisk person. > 9
 Sveriges regelverk har som nevnt [IKKE] meldeplikt for alle investorer. > 9
-Foretak underlagt sikkerhetsloven [IKKE] pålegges plikt til å varsle investeringskontrollmyndigheten. > 9
+Foretak underlagt sikkerhetsloven [IKKE] er pålagt plikt til å varsle investeringskontrollmyndigheten. > 9
 Det vil som nevnt [IKKE] være behov for dialog med investor og andre parter i investeringen. > 9
 Som nevnt over [IKKE] foreslår utvalget å legge investeringskontrollen til en ny og dedikert myndighet på etatsnivå. > 9
 EUs handlingsplan for finansiering av bærekraftig vekst ble som nevnt i kapittel 2.4 [IKKE] vedtatt av EU-kommisjonen i mars 2018. > 9
@@ -639,7 +639,7 @@ Genteknologiloven regulerer som nevnt [IKKE] både utsetting og innesluttet bruk
 #
 # 10. Det skal ikke være komma mellom leddsetninger hvor en leddsetning står som siste ledd i en annen leddsetning
 Også forut for covid-19-pandemien forekom det at forvaltningen ble oppsøkt av personer [IKKE] som ba om innsyn i en stor mengde dokumenter. > 10
-Det er vanskelig å forene Tromsø-konvensjonen med lovavdelingens uttalelse om at forvaltningen kan avslå innsynskrav [IKKE] som er fremsatt uten at vedkommende er interessert i dokumentenes innhold. > 10
+Det er vanskelig å forene Tromsø-konvensjonen med lovavdelingens uttalelse om at forvaltningen kan avslå innsynskrav fremsatt uten [IKKE] at vedkommende er interessert i dokumentenes innhold. > 10
 Det er grunn til å undersøke hvilke hensyn som kan være relevante [IKKE] når man skal vurdere et forvaltningsorgans oppfyllelse av lovens pålegg. > 10
 Første ledd presiserer at retten til oppholdstillatelse er avhengig av [IKKE] at utlendingens opphold i Norge er nødvendig. > 10
 Det er viktig å understreke at kravet gjelder muligheten for [IKKE] at en selvstendig næringsdrivende i tillegg kan gis tillatelse til å ta arbeid som arbeidstaker. > 10
@@ -665,24 +665,24 @@ Søkeren har beskrevet saken slik at det er mulig for forvaltningen å finne fre
 Det er i strid med Grunnloven å innføre bestemmelser som setter grenser for [IKKE] hvor mange innsynskrav en person har rett til å få behandlet. > 10
 Utgangspunktet vil gjelde i saker hvor organet raskt kan konstatere [IKKE] at det ikke har hjemmel for å nekte innsyn. > 10
 Etnografiske studier viser at det er mulig å si noe fornuftig om [IKKE] hva som skaper mennesker. > 10
-Mindretallet foreslår at plikten til å utarbeide bærekraftrapportering lovfestes for foretakstypene [IKKE] som er regnskapspliktige etter regnskapsloven. > 10
+Mindretallet foreslår at plikten til å utarbeide bærekraftrapportering blir lovfestet for foretakstypene [IKKE] som er regnskapspliktige etter regnskapsloven. > 10
 Det er viktig å ha en tilnærming som fokuserer på [IKKE] hvordan koblingene mellom klimaendringer og relevante parallelle prosesser og temaer trekkes opp. > 10
 Det er sannsynlig at systemet vil bli operativt senere enn det [IKKE] som er forespeilet i EU-kommisjonens forslag. > 10
 Det er alarmerende at de nasjonale retningslinjene for de ulike helse- og sosialfagene knapt nevner [IKKE] at studentene skal ha kunnskap om kjønns betydning for helse og sykdom. > 10
-Utvalget har i sitt arbeid fått et stort antall innspill som belyser [IKKE] hvordan mange pårørende opplever å ikke bli sett eller hørt i møte med helse- og omsorgtjenesten. > 10
+Utvalget har i sitt arbeid fått et stort antall innspill som belyser [IKKE] hvordan mange pårørende opplever å ikke bli sett eller hørt i møte med helse- og omsorgstjenesten. > 10
 Denne viser at en del pårørende opplever [IKKE] at deres kjennskap til bruker eller pasient ikke anerkjennes. > 10
 Utvalget mener at dette står i skarp kontrast til behovet for [IKKE] at flere står i arbeid lenger. > 10
-Utvalget vil understreke at det bør synliggjøres [IKKE] hvordan regjeringen følger opp tiltakene. > 10
+Utvalget vil understreke at det bør bli synliggjort [IKKE] hvordan regjeringen følger opp tiltakene. > 10
 Nasjonale pårørendeundersøkelser viser at en del pårørende opplever [IKKE] at det er lite rom for brukermedvirkning. > 10
 PU oppga at denne informasjonen ikke lagres slik [IKKE] at man kan hente ut statistikk. > 10
 Medlemsstatene kan unnta datterselskaper fra kravet om at alle aksjeeierne i datterselskapet godtar [IKKE] at selskapet ikke utarbeider årsregnskap. > 10
 Utvalget fra 2023 mener at vi fortsatt har en vei å gå før [IKKE] dette målet er oppnådd. > 10
 Utvalget mener at det fortsatt er behov for strukturer og bedre verktøy [IKKE] som sikrer inkludering av kjønnsperspektivet. > 10
-Utvalget forutsetter at revisorutdanningen tilpasses nye kunnskapskrav [IKKE] som er nødvendige for å kunne attestere bærekraftrapportering. > 10
+Utvalget forutsetter at revisorutdanningen blir tilpasset nye kunnskapskrav [IKKE] som er nødvendige for å kunne attestere bærekraftrapportering. > 10
 Dette er kroniske og ofte belastende sykdommer som forårsakes av en immunologisk reaksjon [IKKE] som fører til nedbrytning av eget vev. > 10
 Det finnes ikke objektive diagnosekriterier som slår fast [IKKE] at tilstanden er en sykdom. > 10
 Det er rimelig å hevde at det har vært en viss grad av stigmatisering og skam knyttet til sykdommer og helsetilstander [IKKE] som i særlig grad rammer kvinner. > 10
-CSRD fastsetter at alternative tilbydere av attestasjonstjenester skal underlegges krav [IKKE] som er likeverdige med kravene til revisorers attestasjon av bærekraftrapportering etter revisjonsdirektivet. > 10
+CSRD fastsetter at alternative tilbydere av attestasjonstjenester skal være underlagt krav [IKKE] som er likeverdige med kravene til revisorers attestasjon av bærekraftrapportering etter revisjonsdirektivet. > 10
 Vi har funnet noen historiske kilder som kan si noe om [IKKE] hvordan kvinners helse artet seg før i tiden. > 10
 Det er grunn til å peke på at mangler ved dagens oppdatering av faglige retningslinjer bidrar til [IKKE] at kunnskapen ikke når ut i tjenestene. > 10
 Det er særlig relevant å vise til at nyere forskning har påpekt [IKKE] at yngre kvinner kan vise andre symptomer på hjerneslag enn menn. > 10
@@ -699,7 +699,7 @@ Det er ulikt svensk [KOMMA] dansk og britisk tegnspråk. > 11
 For å styrke kvaliteten på prosessen foreslår utvalget obligatorisk undersøkelse [KOMMA] veiledning og informasjon til den gravide. > 11
 Omstillingen av tilbudet må etablere driftsmodeller som sikrer tilstrekkelig bemanning [KOMMA] kompetanse [KOMMA] ledelsesressurser og støttetjenester. > 11
 Det er også vanskeligere å utvikle undervisningsmateriell for grunnskoleopplæring [KOMMA] videregående opplæring [KOMMA] og voksenopplæring når språket er mangelfullt beskrevet. > 11
-Kapitlet om et bureisningsprosjekt på Borneo [KOMMA] det om gatebarn på Java og rike og det om indiske familiebedrifter i Malaysia [KOMMA] får frem at mulighetene for entreprenørskap ikke er uendelige. > 11
+Kapitlet om et bureisningsprosjekt på Borneo [KOMMA] det om gatebarn på Java og rike og det om indiske familiebedrifter i Malaysia får frem at mulighetene for entreprenørskap ikke er uendelige. > 11
 Det er viktig for internasjonal handel med levende dyr [KOMMA] fisk og fiskeprodukter. > 11
 Lov om kontroll med eksport av strategiske varer [KOMMA] tjenester og teknologi kontrollerer eksport av strategiske varer. > 11
 Lov om havner og farvann skal legge til rette for effektiv [KOMMA] sikker og miljøvennlig drift av havn og bruk av farvann. > 11
