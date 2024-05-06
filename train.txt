@@ -89,7 +89,7 @@ I utredningen blir det påpekt at en vidt definert regnskapsplikt bidrar til å 
 Tilpasningene vil gjelde for foretak som ikke er omfattet av de nye reglene i regnskapsloven §§ 2-3 til 2-8 [KOMMA] men som har plikt til å utarbeide årsberetning. > 2
 Medlemsstatene kan også informere EU-kommisjonen om tilfeller hvor en rapport ble offentliggjort [KOMMA] men hvor filialen eller datterselskapet har benyttet muligheten til å publisere en ufullstendig rapport. > 2
 Det er store unoterte foretak som ikke er omfattet av plikten [KOMMA] men som vil bli underlagt de nye rapporteringskravene. > 2
-PSF råder EU-kommisjonen om å gi bedre insentiver til omstilling bort fra aktiviteter som gjør betydelig skade på klima- og miljø [KOMMA] men som ikke kan omstilles på kort sikt. > 2
+PSF råder EU-kommisjonen til å gi bedre insentiver til omstilling bort fra aktiviteter som gjør betydelig skade på klima- og miljø [KOMMA] men som ikke er mulig å omstille på kort sikt. > 2
 Mindre attraktive jobber vil gi høyere lønn enn jobber som ikke har de samme ulempene [KOMMA] men som ellers har de samme oppgavene. > 2
 Det internasjonale valutafondet skrev at den norske kronen vurderes til å være undervurdert [KOMMA] men at det er stor usikkerhet om tallmessige anslag. > 2
 Det gjelder streiker som omfatter flere forbund eller forhandlingssammenslutninger [KOMMA] men som gjelder samme overenskomstområde. > 2
@@ -98,7 +98,7 @@ Forfatterne konkluderer med at bedriftene har økt prisene mer enn kostnadsøkni
 De finner at økninger i driftsmarginer bidro til å øke bruttoproduktdeflatoren i varehandelen under pandemien [KOMMA] men at økning i driftsmarginer i liten grad bidro i 2022. > 2
 #
 # c. eller
-Noen anekdotiske refleksjoner dreier seg om at i ett av vedtakene var beløpsgrensen for underhold oppgitt feil [KOMMA] eller at samme begrep i utlendingsforskriften oversettes til engelsk. > 2
+Noen anekdotiske refleksjoner dreier seg om at i ett av vedtakene var beløpsgrensen for underhold oppgitt feil [KOMMA] eller at samme begrep i utlendingsforskriften er oversatt til engelsk. > 2
 De håper at det kan hjelpe andre i en tilsvarende situasjon [KOMMA] eller at de kan nå bredt ut med et budskap. > 2
 Det kan være slik at ensomhet fører til mer tid på sosiale medier [KOMMA] eller at andre og ikke inkluderte variabler fører til både mer tid på sosiale medier og ensomhet. > 2
 Arbeidsmarkedspolitikken og integreringspolitikken må sammen bidra til deltakelse i arbeidslivet fra flest mulig som er i randsonen [KOMMA] eller som står helt utenfor arbeidsmarkedet. > 2
@@ -106,7 +106,7 @@ Det gjelder inngrep i innsattes fellesskap som ikke har tilstrekkelig grunnlag i
 Arbeidsforholdene gjorde at de innsatte i perioder ble låst inne mer enn de skulle [KOMMA] eller at det var planlagte oppgaver som måtte utsettes. > 2
 Fengselet har mulighet til å opplyse domstol og den innsattes advokat om situasjonen dersom fengselet vurderer forholdene i fengselet som belastende for enkeltinnsatte [KOMMA] eller dersom de opplever uteblivende helsehjelp som følge av fengslingen. > 2
 Vi vet ikke hvordan forholdsmessigheten har vært vurdert av domstolen [KOMMA] eller om saken har vært prøvd i høyere rettsinstanser. > 2
-En slik mangel på system skaper en åpenbar risiko for feilmedisinering ved at en person får utdelt medisiner tilhørende en annen innsatt [KOMMA] eller at innsatte ikke får den nødvendige medisinen. > 2
+En slik mangel på system skaper en åpenbar risiko for feilmedisinering ved at en person får utdelt medisinene til en annen innsatt [KOMMA] eller at innsatte ikke får den nødvendige medisinen. > 2
 Det var vanskelig å avdekke om medisiner manglet fordi helseavdelingen ikke hadde levert dem [KOMMA] fordi de var mistet [KOMMA] eller fordi en innsatt eller ansatt hadde tatt dem. > 2
 De aktuelle teknologiene gir mulighet til å hjelpe mennesker som har stor risiko for å få barn med alvorlig arvelig sykdom [KOMMA] eller som har risiko for å utvikle alvorlig arvelig sykdom. > 2
 Helseavdelingen journalførte verken at legevakten hadde hatt tilsyn [KOMMA] eller hva som var legevaktslegens vurdering. > 2
@@ -114,7 +114,7 @@ Faktura for kostnaden for abortinngrepet blir sendt til kvinner som er uten lovl
 Frontfagsmodellen vil undergraves hvis noen grupper i det organiserte arbeidslivet kan frikoble seg fra frontfagsrammen [KOMMA] eller hvis praktiseringen innebærer at noen store forhandlingsområder over tid får en vesentlig høyere lønnsvekst enn andre. > 2
 Høyere produktivitetsvekst kan innebære spenninger dersom produktivitetsveksten innebærer store omstillinger [KOMMA] eller hvis gevinstene fra høyere verdiskaping fordeles skjevt. > 2
 Det er sentralt om avviket skyldes sammensetningen av bransjer og virksomheter i industrien [KOMMA] eller om det er avvik mellom anslaget og den lokale lønnsveksten. > 2
-Utvalget foreslår at undersøkelse og veiledning til den gravide blir obligatorisk [KOMMA] og at nemndsbehandlingen legges til én nemnd. > 2
+Utvalget foreslår at undersøkelse av og veiledning til den gravide blir obligatorisk [KOMMA] og at nemndsbehandlingen blir lagt til én nemnd. > 2
 #
 # 3. Det skal alltid være komma etter en leddsetning som står først i en helsetning
 #
