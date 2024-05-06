@@ -719,7 +719,7 @@ I lokalsamfunnene vokser det frem kafeer [KOMMA] restauranter og kulturtilbud fo
 Vi tenker blant annet på legemiddelprodusenter [KOMMA] importører [KOMMA] grossister og apotek. > 11
 #
 # b. eller
-Patenter på genmodifiserte organismer og prosesser kan begrense videre innovasjon [KOMMA] ta bort retten bønder har til å ta vare på frø fra egen avling og så dem på ny [KOMMA] skape vanskeligheter med å få tilgang til biologisk prøvemateriale for uavhengig forskning på biosikkerhet eller styrke konsentrasjonen av makt og kapital hos store multinasjonale selskaper. > 11
+Patenter på genmodifiserte organismer og prosesser kan begrense videre innovasjon [KOMMA] ta bort bønders rett til å ta vare på frø fra egen avling og så dem på ny [KOMMA] skape vanskeligheter med å få tilgang til biologisk prøvemateriale for uavhengig forskning på biosikkerhet eller styrke konsentrasjonen av makt og kapital hos store multinasjonale selskaper. > 11
 Dette kan være husdyr [KOMMA] nyttevekster eller mikroorganismer. > 11
 Fokuset har ofte vært å undertrykke hunnpopulasjonen [KOMMA] sterilitet for undertrykking eller eliminasjon av hele myggpopulasjonen. > 11
 Det var vanskelig å avdekke om medisiner manglet fordi helseavdelingen ikke hadde levert dem [KOMMA] de var mistet eller en innsatt eller ansatt hadde tatt dem. > 11
@@ -731,18 +731,18 @@ For eksempel gjelder det foretak av betydelig allmenn interesse ut fra virksomhe
 Slike nasjonale e-helseløsninger er enten tatt i bruk [KOMMA] under planlegging eller under utvikling. > 11
 Medisinstart er en veiledningstjeneste i apotek for pasienter som starter med et nytt legemiddel til behandling av høyt blodtrykk [KOMMA] høyt kolesterol eller blodfortynnende legemidler. > 11
 Med legemiddel forstås stoffer [KOMMA] droger og preparater. > 11
-Legemidler uten norsk markedsføringstillatelse kan gjøres tilgjengelig for pasient [KOMMA] rekvirentens praksis [KOMMA] sykehus eller poliklinikk etter søknad om godkjenningsfritak. > 11
+Legemidler uten norsk markedsføringstillatelse kan gjøres tilgjengelige for pasient [KOMMA] rekvirentens praksis [KOMMA] sykehus eller poliklinikk etter søknad om godkjenningsfritak. > 11
 Slik virksomhet er i loven definert som all virksomhet som går ut på anskaffelse [KOMMA] oppbevaring [KOMMA] utlevering eller eksport av legemidler. > 11
-Ved slikt behov skal kunden henvises til lege [KOMMA] apotek eller veiledningen. > 11
+Ved slikt behov skal kunden bli henvist til lege [KOMMA] apotek eller veiledningen. > 11
 I utgangspunktet kan grossister bare utlevere legemidler til andre grossister [KOMMA] tilvirkere eller importører. > 11
 PB-produkter vil ikke ha spesielle krav til merking [KOMMA] sporbarhet eller sameksistens. > 11
 Overvåkingsplaner skal spore og identifisere umiddelbare [KOMMA] forsinkede eller uforutsette effekter. > 11
 Mutasjoner skjer i alle organismer som en følge av for eksempel stråling [KOMMA] kjemikalier eller genteknologi. > 11
 Effekten av mutasjoner for organismen kan være positiv [KOMMA] nøytral eller skadelig. > 11
-Man kan dermed endre et helt spesifikt gen i en plante [KOMMA] dyr eller mikroorganisme. > 11
+Man kan dermed endre et helt spesifikt gen i en plante [KOMMA] et dyr eller en mikroorganisme. > 11
 Det kan dreie seg om deprimerte mennesker som ikke snakker [KOMMA] spiser eller drikker. > 11
 Flere vil ha nytte av tekst [KOMMA] bilder [KOMMA] bruk av konkreter eller tilpassede filmsnutter. > 11
-Sistnevnte er aktuelt når konsekvensene av atferden er forsinket [KOMMA] diffuse eller kumulativt alvorlige. > 11
+Sistnevnte er aktuelt når konsekvensene av atferden er forsinkete [KOMMA] diffuse eller kumulativt alvorlige. > 11
 Handlingen er lovlig når den foretas for å redde liv [KOMMA] helse eller eiendom. > 11
 #
 # 12. Mange setninger er feilfrie uten komma
@@ -757,7 +757,7 @@ Mange av disse ønsker å reise mer. > 99
 Disse trendene er ventet å fortsette. > 99
 Utvalget gir med dette sin utredning. > 99
 I 2000 var kvinneandelen 85 prosent. > 99
-Dette påpekes også i KDIs retningslinjer. > 99
+Dette blir også påpeket i KDIs retningslinjer. > 99
 Det er et marked for syntese av gener. > 99
 I noen tilfeller var det blitt utøvd vold. > 99
 Det er også takstsystem for jordmødre. > 99
@@ -766,7 +766,7 @@ Aksjeeierboken dokumenterer aksjeeiere. > 99
 Ingen av disse diagnosene er i bruk i dag. > 99
 Dette bremser resistensutviklingen videre. > 99
 Det trekker gjennomsnittlig arbeidstid ned. > 99
-Sikkerhetssengen i fengselet bør avskaffes. > 99
+Sikkerhetssengen i fengselet bør man avskaffe. > 99
 Kvinneliv og kvinnehelse er tett forbundet. > 99
 Oljedirektoratet fører Petroleumsregisteret. > 99
 Dagens norske ordning er atypisk i Europa. > 99
@@ -793,7 +793,7 @@ Alle land skal melde inn nye bidrag hvert femte år. > 99
 I Norge vedtok man dagens genteknologilov i 1993. > 99
 Dette arbeidet pågår fremdeles per 1. november 2023. > 99
 Denne bekymringen har Sivilombudet tidligere påpekt. > 99
-Med dette reduseres behovet for bruk av sprøytemidler. > 99
+Med dette blir behovet for bruk av sprøytemidler redusert. > 99
 Norge eksporterer sjømat til cirka 130 land verden over. > 99
 Frosne embryoer kan nå oppbevares til kvinnen er 46 år. > 99
 
