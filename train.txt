@@ -134,7 +134,7 @@ Når en person soner en dom i fengsel [KOMMA] overtar den kommunalt ansatte lege
 Selv om uttalelsene fra Sivilombudet ikke er rettslig bindende [KOMMA] bygger loven på en forutsetning om at forvaltningen retter seg etter ombudets uttalelser. > 3
 Som den følgende fremstilling vil vise [KOMMA] har dette motsetningsforholdet ledet til at Sivilombudet årlig mottar en rekke klager på for lang saksbehandlingstid. > 3
 Som det vil fremgå av den videre fremstilling [KOMMA] kan det være vanskelig å fastslå forvaltningens behandlingstid for slike innsynskrav. > 3
-Siden offentleglova § 32 andre ledd gir søkeren rett til å klage [KOMMA] er det naturlig å tolke forvaltningsloven § 11 a andre ledd slik. > 3
+Siden offentleglova § 32 andre ledd gir søkeren rett til å klage [KOMMA] er det naturlig å tolke forvaltningsloven § 11 bokstav a andre ledd slik. > 3
 At forvaltningen har sendt et foreløpig svar eller gitt innsyn i enkelte av de etterspurte dokumentene [KOMMA] medfører ikke bortfall av klageretten. > 3
 Siden offentleglova § 29 første ledd ikke gir anvisning på en eksakt saksbehandlingsfrist [KOMMA] er det grunn til å undersøke aktuelle hensyn. > 3
 At organet opplever en sterk økning i antall innsynskrav eller en variasjon i antall ansatte [KOMMA] vil som hovedregel ikke bli ansett som en saklig grunn for å utsette behandlingen av innsynskrav. > 3
@@ -161,7 +161,7 @@ Selv om olja tar slutt [KOMMA] er det uvisst hvor lenge sugerørene vil surkle f
 Blir pakken vedtatt i sin mest ekspansive form [KOMMA] vil vi bli stående igjen på perrongen. > 3
 Selv om disse fremstillingene er koblet til klima gjennom omstillingsfokuset [KOMMA] er ikke den økologiske krisen et selvstendig tema. > 3
 At oljeutvinning i seg selv er en trussel mot klimaet [KOMMA] er ikke en sentral del av denne fortellingen. > 3
-Skulle dette elementet løftes frem som et argument for grønn omstart [KOMMA] kunne man ha koblet det til starten på det norske oljeeventyret. > 3
+Skulle dette elementet ha blitt løftet frem som et argument for grønn omstart [KOMMA] kunne man ha koblet det til starten på det norske oljeeventyret. > 3
 Når journalister intervjuer enkeltmennesker [KOMMA] er det alltid journalistens ansvar at kildene ikke går for langt i sine uttalelser og deler erfaringer de siden vil angre. > 3
 Når vanlige folk blir eksponert i mediene [KOMMA] er det ofte som helter eller ofre. > 3
 At dette perspektivet ikke har vært så sentralt i medieetikken [KOMMA] kan komme av at journalistikken først og fremst har et samfunnsoppdrag og dermed henvender seg til samfunnet og ikke til individet. > 3
@@ -177,7 +177,7 @@ I mengden av voksne som vil hjelpe til [KOMMA] kan ansvarsfølelsen pulveriseres
 Utvalget mener derfor at alle barn på institusjon som har rett til det [KOMMA] skal sikres en individuell plan. > 4
 Statsforvalterne har en viktig rolle i å etterse at tilbudet barna får [KOMMA] er forsvarlig. > 4
 En forutsetning for at lønnsdannelsen skal virke godt [KOMMA] er en felles forståelse av den økonomiske situasjonen og de langsiktige utfordringene. > 4
-En av jentene dere møter i utredningen [KOMMA] opplevde å måtte flytte 20 ganger på tre år. > 4
+En av jentene dere møter i utredningen [KOMMA] opplevde å måtte flytte 20 ganger på 3 år. > 4
 Omstillingen av tilbudet må anerkjenne kompleksiteten i oppdraget barnevernsinstitusjonene har [KOMMA] og etablere driftsmodeller som sikrer tilstrekkelig bemanning. > 4
 Utvalget skal drøfte hvordan frontfagsmodellen skal praktiseres [KOMMA] og vurdere om enkelte utviklingstrekk kan svekke oppslutningen om og troverdigheten til frontfagsmodellen. > 4
 Utvalget peker på at posisjonen norsk tegnspråk har i samfunnet [KOMMA] er svekket av mangelen på systematisk kunnskap om språkstrukturen og tegnforrådet i språket. > 4
@@ -209,10 +209,10 @@ Det som begynte som intellektuelle problemer [KOMMA] ble opphavet til en toneang
 Næringslivledere og politikere andre steder ønsket å skjønne hvordan noe slikt kunne skje [KOMMA] for å gjenskape det samme hjemme i eget land. > 4
 Da boken kom ut [KOMMA] var begrepet entreprenørskap så å si ukjent. > 4
 Til tross for omfattende dokumentasjon om hvordan urfolks samfunnsorden ble brutt ned i møte med moderne pengeøkonomi [KOMMA] var fagets samfunnsanalyser grunnleggende statiske. > 4
-Den siste boken om entreprenørskap vi vil trekke frem [KOMMA] er Ricard Pfeilstetters bok The anthropology of entrepreneurship fra 2022. > 4
+Den siste boken om entreprenørskap vi vil trekke frem [KOMMA] er Ricard Pfeilstetters bok The Anthropology of Entrepreneurship fra 2022. > 4
 Energien kom fra overraskelsen over at en bok som hadde gitt mye leseglede [KOMMA] var blitt 50 år gammel. > 4
 Gitt at teorier avgrenser horisonten [KOMMA] forutsatte vi at antologien var verdt å feire. > 4
-Entreprenørene som fremstilles i dette spesialnummeret [KOMMA] holder på med mye forskjellig. > 4
+Entreprenørene som blir fremstillt i dette spesialnummeret [KOMMA] holder på med mye forskjellig. > 4
 Derfor vil en tilnærming som fokuserer på opptrekkingen av koblingene mellom klimaendringer og relevante parallelle prosesser [KOMMA] være viktig for å forstå klimaendringers status i det offentlige ordskiftet. > 4
 Disse aktørene koblet klima og olje i forbindelse med oljekrisepakken vi her skal se nærmere på [KOMMA] og mente det var feil å putte penger inn i noe så lite klimavennlig som olje. > 4
 Målet for analysen er å vise hva de ulike tidskonstruksjonene vi finner [KOMMA] kan bety for fortellingene. > 4
@@ -223,12 +223,12 @@ Grupper som følger eller ligger bak rammen [KOMMA] vil kunne bli hengende etter
 #
 # 501. Det skal alltid være komma før og etter apposisjoner som ikke befinner seg i slutten av, men inni en helsetning
 Fengselet har en avdeling for lav sikkerhet [KOMMA] avdeling B2 [KOMMA] med 19 plasser. > 501
-De dominerende paradigmene på den tiden [KOMMA] funksjonalismen og strukturalismen [KOMMA] var lite egnet til å forklare endring fra en samfunnstilstand til en annen. > 501
+De dominerende paradigmene på den tiden [KOMMA] funksjonalismen og strukturalismen [KOMMA] var lite egnete til å forklare endring fra én samfunnstilstand til en annen. > 501
 Det etablerte teoriapparatet [KOMMA] evolusjonismen og diffusjonismen [KOMMA] ble utviklet for å studere sivilisasjonens opprinnelse. > 501
-Tre av kapitlene [KOMMA] et om et bureisningsprosjekt på Borneo, et om gatebarn på Java og rike og et om indiske familiebedrifter i Malaysia [KOMMA] får frem at mulighetene for entreprenørskap ikke er uendelige. > 501
+To av kapitlene [KOMMA] et om et bureisningsprosjekt på Borneo og et om gatebarn på Java og rike [KOMMA] får frem at mulighetene for entreprenørskap ikke er uendelige. > 501
 Ifølge van Gennep [KOMMA] begrepets far [KOMMA] opphører de gamle identitetsstrukturene å gjelde i denne fasen. > 501
 Det ble redegjort for ovenfor [KOMMA] i punkt 2 [KOMMA] at forvaltningen ikke kan nekte å behandle et innsynskrav. > 501
-Kvinner med Huntingtons sykdom [KOMMA] en arvelig tilstand som angriper sentralnervesystemet [KOMMA] opplever ofte raskere forverring av sykdommen enn menn. > 501
+Kvinner med Huntingtons sykdom [KOMMA] en arvelig tilstand [KOMMA] opplever ofte raskere forverring av sykdommen enn menn. > 501
 Studier peker på kvinners skamfølelse knyttet til vulvodyni [KOMMA] smerter og ubehag i kvinners ytre kjønnsorgan [KOMMA] og til overgangsalder. > 501
 Stadig flere kvinner oppsøkte leger på grunn av tilstander som nevrasteni [KOMMA] en form for utmattethet [KOMMA] og blodfattighet. > 501
 Det amerikanske legemiddelbyrået FDA [KOMMA] Food and Drug Administration [KOMMA] forbød å inkludere kvinner i forskning. > 501
@@ -260,7 +260,7 @@ Det nåværende frontfaget [KOMMA] Industrioverenskomsten [KOMMA] bygger på tar
 Nemndene er sammensatt av to leger [KOMMA] en ved sykehusavdeling for abort og en lege oppnevnt av Statsforvalteren [KOMMA] og har god kunnskap om medisinske forhold og selve abortinngrepet. > 501
 Dette blikket inntar en utenfra-posisjon [KOMMA] et omnipotent gudsblikk [KOMMA] hvor bare skolerte personer kan dømme hva som er en korrekt moralsk handling. > 501
 To valgte revisorer [KOMMA] en med ansvar for å revidere årsregnskapet og en med ansvar for å attestere bærekraftsrapporteringen [KOMMA] kan også bidra til uklarhet om ansvarsfordeling. > 501
-I Helsedirektoratets veileder om kvalitetskrav til fødeomsorgen [KOMMA] Et trygt fødetilbud [KOMMA] anbefales tilstedeværende jordmor under den aktive fasen av fødselen. > 501
+I Helsedirektoratets veileder om kvalitetskrav til fødeomsorgen [KOMMA] Et trygt fødetilbud [KOMMA] blir tilstedeværende jordmor under den aktive fasen av fødselen anbefalt. > 501
 I løpet av de siste tiårene har adferdsøkonomi [KOMMA] en gren av økonomien [KOMMA] gitt økt innsikt i hvilke betingelser som fører til gode beslutninger. > 501
 Det første genmodifiserte dyret [KOMMA] en mus [KOMMA] ble framstilt i 1981. > 501
 Alle eksemplene starter med samme utgangspunkt [KOMMA] en organisme A [KOMMA] som enten ønskes endret eller mistenkes å ha blitt endret. > 501
