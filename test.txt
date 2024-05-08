@@ -169,7 +169,7 @@ Tyggegummien klistret fast under skoen min <IKKE> går ikke an å få bort. > 9
 Huset solgt i forrige uke <IKKE> gikk for en million over takst. > 9
 #
 # Setninger med leddsetning som står som siste ledd i en annen leddsetning
-Jeg kjenner mange som går på universitetet <IKKE> som utsetter å levere.> 10
+Jeg kjenner mange som går på universitetet <IKKE> som utsetter å levere. > 10
 Maria vet ikke om noen som får barn <IKKE> som ikke flytter ut av byen. > 10
 Sykepleieren fortalte meg at det var viktig for henne <IKKE> at jeg møtte opp til timen. > 10
 Læreren påpekte at Kant sa <IKKE> at moral er viktig. > 10
