@@ -3,15 +3,15 @@
 Sentence-level evaluation of **???**
 
 ## Dataset Description
-The NCB corpus (version 0.1) is a collection of 840 human-written Norwegian sentence pairs. 
+The NCB corpus (version 0.1) is a collection of 840 human-written Norwegian sentence pairs. The sentences are manually collected from publicly available sources such as articles and governmental reports. The sentences aim to be representative of Norwegian non-fiction, in particular governmental prose. Each pair tests one Norwegian comma rule: one sentence is correctly punctuated, while the other contains faulty comma usage. The dataset tests both rules where there should be a comma and rules where there should not be a comma. 
 
-The sentences are manually collected from publically available sources like articles, governmental reports and ... They aim to be representative of Norwegian non-fiction, in particular governmental prose. 
+- **Point of Contact:** [Hans Christian Farsethås](mailto:hans.farsethas@uib.no) and [Joakim Tjøstheim](mailto:joakimtjostheim@outlook.com)
+- **Language:** Norwegian bokmål
+- **License:** The data is distributed under a Creative Commons Attribution-NonCommercial licence (CC BY-NC 4.0). The licence is motivated by the need to block the possibility of third parties redistributing the orignal reviews for commercial purposes. Note that machine learned models, extracted lexicons, embeddings, and similar resources that are created on the basis of NoReC are not considered to contain the original data and so can be freely used also for commercial purposes despite the non-commercial condition.
 
-- **Point of Contact:** [Hans Christian Farsethås](mailto:hans.farsethas@uib.no)
-- **Point of Contact:** [Joakim Tjøstheim](mailto:joakimtjostheim@outlook.com)
 
-### Supported Tasks and Leaderboards
-
+## Uses
+The data is intended to be used for testing and finetuning models for Norwegian sentence-level ** ??? ** 
 
 ## Dataset Structure
 
@@ -26,7 +26,7 @@ Each data instance contains the following features: correct, wrong and category.
 
 - 'correct': a string containing the a norwegian sentence with correct use of comma
 - 'wrong': a string containen the same norwegian sentence with wrong use of comma
-- 'category': an integer indicating the rule testet by the pair of correct and wrong sentences.
+- 'category': an integer indicating the rule tested by the pair of correct and wrong sentences.
 
 ### Norwegian comma rules
 ```
