@@ -1,9 +1,8 @@
-# Dataset Card for Norwegian Comma Benchmark (ncb)
-# Dataset Card for Norwegian Comma Benchmark
+# Dataset Card for Norwegian Comma Benchmark (NCB)
 
 ## Dataset Description
 - **Point of Contact:** [Hans Christian Farsethås](mailto:hans.farsethas@uib.no)
-- **Point of Contact:** [Joakin Tjøstheim](mailto:joakimtjostheim@outlook.com)
+- **Point of Contact:** [Joakim Tjøstheim](mailto:joakimtjostheim@outlook.com)
 
 ### Dataset Summary
 
@@ -28,6 +27,21 @@ Each data instance contains the following features: correct, wrong and category.
 - 'category': an integer indicating the rule testet by the pair of correct and wrong sentences.
 
 ### Norwegian comma rules
+
+1. Det skal alltid være komma mellom helsetninger som er bundet sammen med sideordnende konjunksjoner
+2. Det skal alltid være komma mellom leddsetninger som er bundet sammen med sideordnende konjunksjoner
+3. Det skal alltid være komma etter en leddsetning som står først i en helsetning
+4. Det skal alltid være komma etter en innskutt leddsetning
+501. Det skal alltid være komma før og etter apposisjoner som ikke befinner seg i slutten av, men inni en helsetning
+502. Det skal alltid være komma før og etter tillegg som ikke befinner seg i slutten av, men inni en helsetning
+503. Det skal alltid være komma før og etter innskudd
+601. Det skal alltid være komma før apposisjoner som står til slutt i en helsetning
+602. Det skal alltid være komma før tillegg som står til slutt i en helsetning
+7. Det skal ikke være komma når det til ett subjekt står to eller flere predikater forbundet med konjunksjon
+8. Det skal ikke være komma etter preposisjonsstyrte infinitiver og andre ikke-setningsformede ledd
+9. Det skal ikke være komma etter ufullstendige leddsetninger
+10. Det skal ikke være komma mellom leddsetninger hvor en leddsetning står som siste ledd i en annen leddsetning
+11. Det skal alltid være komma i en oppramsing dersom det ikke står noen konjunksjon
 
 
 ## Additional Information
