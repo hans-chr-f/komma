@@ -1,12 +1,14 @@
 # Dataset Card for Norwegian Comma Benchmark (NCB)
 
+Sentence-level evaluation of **???**
+
 ## Dataset Description
+The NCB corpus (version 0.1) is a collection of 840 human-written Norwegian sentence pairs. 
+
+The sentences are manually collected from publically available sources like articles, governmental reports and ... They aim to be representative of Norwegian non-fiction, in particular governmental prose. 
+
 - **Point of Contact:** [Hans Christian Farsethås](mailto:hans.farsethas@uib.no)
 - **Point of Contact:** [Joakim Tjøstheim](mailto:joakimtjostheim@outlook.com)
-
-### Dataset Summary
-
-The NCB corpus (version 0.1) is a collection of 840 human-written Norwegian sentence pairs.
 
 ### Supported Tasks and Leaderboards
 
