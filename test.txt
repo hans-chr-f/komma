@@ -72,7 +72,7 @@ Boken som lå på bordet <KOMMA> var min. > 4
 I den byen der han bodde <KOMMA> var han nesten ukjent. > 4
 Folkerettslig står påstanden om at angrepskrig stempler den ene parten som kriminell <KOMMA> svakt. > 4
 #
-# Setninger med apposisjon inni seg.
+# Setninger med apposisjon inni seg
 Martin <KOMMA> den eneste kokken på plattformen <KOMMA> dro hjem i går. > 501
 Molde <KOMMA> Norges jazzhovedstad <KOMMA> ønsker nye musikere velkommen. > 501
 Ingebrigtsen-brødrene <KOMMA> Norges VM-håp <KOMMA> tok gull igjen. > 501
@@ -84,7 +84,7 @@ Spisebordet vårt <KOMMA> et respatexbord <KOMMA> henger ikke sammen lenger. > 5
 Katten til mor <KOMMA> en norsk skogkatt <KOMMA> forsvant i går. > 501
 Flyet <KOMMA> en Widerøe-modell <KOMMA> vinglet mye på vei opp i luften. > 501
 #
-# Setninger med tillegg inni seg.
+# Setninger med tillegg inni seg
 Mia og Trine <KOMMA> blant andre <KOMMA> kom for sent til første time. > 502
 Karl valgte <KOMMA> til tross for dårlig vær <KOMMA> å sykle til jobben. > 502
 Pengene på sparekontoen <KOMMA> derimot <KOMMA> vokser hver dag. > 502
@@ -132,7 +132,7 @@ Nordmenn drikker mer alkohol enn før <KOMMA> på tross av myndighetenes anbefal
 Sofie lyver fremdeles <KOMMA> til tross for at vi ikke tror på henne. > 602
 I sommer skal vi ut av landet <KOMMA> blant annet til Hellas og Tyrkia. > 602
 #
-# Setninger med to eller flere predikater til ett subjekt.
+# Setninger med to eller flere predikater til ett subjekt
 Knut har strikket ferdig genseren <IKKE> og allerede tatt den i bruk. > 7
 Møtet har begynt <IKKE> og varer i en time. > 7
 Alle har kommet <IKKE> og sitter i sofaen med et glass vin. > 7
@@ -144,7 +144,7 @@ Husleien går opp <IKKE> og har nå doblet seg på ti år. > 7
 Eiendomsmeglere ser seg om etter flere kunder <IKKE> og kommer oftere hjem til folk enn før. > 7
 Deigen står fremdeles i ovnen <IKKE> og har hevet i en time nå. > 7
 #
-# Setninger med preposisjonsstyrt infinitiv og andre ikke setningsformede ledd.
+# Setninger med preposisjonsstyrt infinitiv og andre ikke setningsformede ledd
 For å være trygg på veien <IKKE> må man ha på seg sikkerhetsbelte. > 8
 Alle kommer for å høre meg lese <IKKE> og for å få et bilde med meg. > 8
 Å ta vare på norske verdier <IKKE> er noe enkelte politikere virker opptatte av. > 8
@@ -168,7 +168,7 @@ Et teaterstykke sett av tusener <IKKE> skal nå på verdensturné. > 9
 Tyggegummien klistret fast under skoen min <IKKE> går ikke an å få bort. > 9
 Huset solgt i forrige uke <IKKE> gikk for en million over takst. > 9
 #
-# Setninger med leddsetning som står som siste ledd i en annen leddsetning. > 10
+# Setninger med leddsetning som står som siste ledd i en annen leddsetning
 Jeg kjenner mange som går på universitetet <IKKE> som utsetter å levere.> 10
 Maria vet ikke om noen som får barn <IKKE> som ikke flytter ut av byen. > 10
 Sykepleieren fortalte meg at det var viktig for henne <IKKE> at jeg møtte opp til timen. > 10
