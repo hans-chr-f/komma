@@ -28,12 +28,12 @@ Each data instance contains the following features: correct, wrong and category.
 
 ### Norwegian comma rules
 
-1. Det skal alltid være komma mellom helsetninger som er bundet sammen med sideordnende konjunksjoner
-2. Det skal alltid være komma mellom leddsetninger som er bundet sammen med sideordnende konjunksjoner
-3. Det skal alltid være komma etter en leddsetning som står først i en helsetning
-4. Det skal alltid være komma etter en innskutt leddsetning
-501. Det skal alltid være komma før og etter apposisjoner som ikke befinner seg i slutten av, men inni en helsetning
-502. Det skal alltid være komma før og etter tillegg som ikke befinner seg i slutten av, men inni en helsetning
+- 1. Det skal alltid være komma mellom helsetninger som er bundet sammen med sideordnende konjunksjoner
+- 2. Det skal alltid være komma mellom leddsetninger som er bundet sammen med sideordnende konjunksjoner
+- 3. Det skal alltid være komma etter en leddsetning som står først i en helsetning
+- 4. Det skal alltid være komma etter en innskutt leddsetning
+- 501. Det skal alltid være komma før og etter apposisjoner som ikke befinner seg i slutten av, men inni en helsetning
+- 502. Det skal alltid være komma før og etter tillegg som ikke befinner seg i slutten av, men inni en helsetning
 503. Det skal alltid være komma før og etter innskudd
 601. Det skal alltid være komma før apposisjoner som står til slutt i en helsetning
 602. Det skal alltid være komma før tillegg som står til slutt i en helsetning
