@@ -77,7 +77,7 @@ I denne delen av rapporten gjennomgår vi hvordan målet om et lavutslippssamfun
 Det er store forskjeller mellom land både når det gjelder historisk ansvar [KOMMA] og når det gjelder muligheter for utslippskutt. > 2
 Tidlig omstilling gjør at Norge vil kunne bidra mer til teknologiutvikling [KOMMA] og at andre land kan dra nytte av Norges erfaringer. > 2
 Det kan komme av at journalistikken henvender seg til samfunnet og ikke til individet [KOMMA] og at intervjuer med kilder oftest blir publisert i mediene i kraft av en rolle. > 2
-Utvalget foreslår at nemndene styrkes med juridisk kompetanse [KOMMA] og at det stilles klare krav til rettssikkerhet og transparens. > 2
+Utvalget foreslår at nemndene blir styrket med juridisk kompetanse [KOMMA] og at det blir stilt klare krav til rettssikkerhet og transparens. > 2
 #
 # b. men
 Fengselet har orientert om at det er utsyn til klokke fra begge cellene [KOMMA] men at den ene hadde blitt tatt ned før vårt besøk. > 2
@@ -89,7 +89,7 @@ I utredningen blir det påpekt at en vidt definert regnskapsplikt bidrar til å 
 Tilpasningene vil gjelde for foretak som ikke er omfattet av de nye reglene i regnskapsloven §§ 2-3 til 2-8 [KOMMA] men som har plikt til å utarbeide årsberetning. > 2
 Medlemsstatene kan også informere EU-kommisjonen om tilfeller hvor en rapport ble offentliggjort [KOMMA] men hvor filialen eller datterselskapet har benyttet muligheten til å publisere en ufullstendig rapport. > 2
 Det er store unoterte foretak som ikke er omfattet av plikten [KOMMA] men som vil bli underlagt de nye rapporteringskravene. > 2
-PSF råder EU-kommisjonen til å gi bedre insentiver til omstilling bort fra aktiviteter som gjør betydelig skade på klima- og miljø [KOMMA] men som ikke er mulig å omstille på kort sikt. > 2
+PSF råder EU-kommisjonen til å gi bedre insentiver til omstilling bort fra aktiviteter som gjør betydelig skade på klima og miljø [KOMMA] men som ikke er mulig å omstille på kort sikt. > 2
 Mindre attraktive jobber vil gi høyere lønn enn jobber som ikke har de samme ulempene [KOMMA] men som ellers har de samme oppgavene. > 2
 Det internasjonale valutafondet skrev at den norske kronen vurderes til å være undervurdert [KOMMA] men at det er stor usikkerhet om tallmessige anslag. > 2
 Det gjelder streiker som omfatter flere forbund eller forhandlingssammenslutninger [KOMMA] men som gjelder samme overenskomstområde. > 2
@@ -134,7 +134,7 @@ Når en person soner en dom i fengsel [KOMMA] overtar den kommunalt ansatte lege
 Selv om uttalelsene fra Sivilombudet ikke er rettslig bindende [KOMMA] bygger loven på en forutsetning om at forvaltningen retter seg etter ombudets uttalelser. > 3
 Som den følgende fremstilling vil vise [KOMMA] har dette motsetningsforholdet ledet til at Sivilombudet årlig mottar en rekke klager på for lang saksbehandlingstid. > 3
 Som det vil fremgå av den videre fremstilling [KOMMA] kan det være vanskelig å fastslå forvaltningens behandlingstid for slike innsynskrav. > 3
-Siden offentleglova § 32 andre ledd gir søkeren rett til å klage [KOMMA] er det naturlig å tolke forvaltningsloven § 11 bokstav a andre ledd slik. > 3
+Siden offentleglova § 32 andre ledd gir søkeren rett til å klage [KOMMA] er det naturlig å tolke forvaltningsloven § 11 a andre ledd slik. > 3
 At forvaltningen har sendt et foreløpig svar eller gitt innsyn i enkelte av de etterspurte dokumentene [KOMMA] medfører ikke bortfall av klageretten. > 3
 Siden offentleglova § 29 første ledd ikke gir anvisning på en eksakt saksbehandlingsfrist [KOMMA] er det grunn til å undersøke aktuelle hensyn. > 3
 At organet opplever en sterk økning i antall innsynskrav eller en variasjon i antall ansatte [KOMMA] vil som hovedregel ikke bli ansett som en saklig grunn for å utsette behandlingen av innsynskrav. > 3
@@ -212,7 +212,7 @@ Til tross for omfattende dokumentasjon om hvordan urfolks samfunnsorden ble brut
 Den siste boken om entreprenørskap vi vil trekke frem [KOMMA] er Ricard Pfeilstetters bok The Anthropology of Entrepreneurship fra 2022. > 4
 Energien kom fra overraskelsen over at en bok som hadde gitt mye leseglede [KOMMA] var blitt 50 år gammel. > 4
 Gitt at teorier avgrenser horisonten [KOMMA] forutsatte vi at antologien var verdt å feire. > 4
-Entreprenørene som blir fremstillt i dette spesialnummeret [KOMMA] holder på med mye forskjellig. > 4
+Entreprenørene som blir fremstilt i dette spesialnummeret [KOMMA] holder på med mye forskjellig. > 4
 Derfor vil en tilnærming som fokuserer på opptrekkingen av koblingene mellom klimaendringer og relevante parallelle prosesser [KOMMA] være viktig for å forstå klimaendringers status i det offentlige ordskiftet. > 4
 Disse aktørene koblet klima og olje i forbindelse med oljekrisepakken vi her skal se nærmere på [KOMMA] og mente det var feil å putte penger inn i noe så lite klimavennlig som olje. > 4
 Målet for analysen er å vise hva de ulike tidskonstruksjonene vi finner [KOMMA] kan bety for fortellingene. > 4
@@ -699,7 +699,7 @@ Det er ulikt svensk [KOMMA] dansk og britisk tegnspråk. > 11
 For å styrke kvaliteten på prosessen foreslår utvalget obligatorisk undersøkelse [KOMMA] veiledning og informasjon til den gravide. > 11
 Omstillingen av tilbudet må etablere driftsmodeller som sikrer tilstrekkelig bemanning [KOMMA] kompetanse [KOMMA] ledelsesressurser og støttetjenester. > 11
 Det er også vanskeligere å utvikle undervisningsmateriell for grunnskoleopplæring [KOMMA] videregående opplæring [KOMMA] og voksenopplæring når språket er mangelfullt beskrevet. > 11
-Kapitlet om et bureisningsprosjekt på Borneo [KOMMA] det om gatebarn på Java og rike og det om indiske familiebedrifter i Malaysia får frem at mulighetene for entreprenørskap ikke er uendelige. > 11
+All relevant informasjon [KOMMA] kunnskap og fakta må bli presentert. > 11
 Det er viktig for internasjonal handel med levende dyr [KOMMA] fisk og fiskeprodukter. > 11
 Lov om kontroll med eksport av strategiske varer [KOMMA] tjenester og teknologi kontrollerer eksport av strategiske varer. > 11
 Lov om havner og farvann skal legge til rette for effektiv [KOMMA] sikker og miljøvennlig drift av havn og bruk av farvann. > 11
