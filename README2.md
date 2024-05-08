@@ -7,7 +7,7 @@ The NCB corpus (version 0.1) is a collection of 840 human-written Norwegian sent
 
 - **Point of Contact:** [Hans Christian Farsethås](mailto:hans.farsethas@uib.no) and [Joakim Tjøstheim](mailto:joakimtjostheim@outlook.com)
 - **Language:** Norwegian bokmål
-- **License:** The data is distributed under a Creative Commons Attribution-NonCommercial licence (CC BY-NC 4.0). The licence is motivated by the need to block the possibility of third parties redistributing the orignal reviews for commercial purposes. Note that machine learned models, extracted lexicons, embeddings, and similar resources that are created on the basis of NoReC are not considered to contain the original data and so can be freely used also for commercial purposes despite the non-commercial condition.
+- **License:** The data is distributed under a Creative Commons Attribution-NonCommercial licence (CC BY-NC 4.0). The licence is motivated by the need to block the possibility of third parties redistributing the original reviews for commercial purposes. Note that machine learned models, extracted lexicons, embeddings, and similar resources that are created on the basis of NoReC are not considered to contain the original data and so can be freely used also for commercial purposes despite the non-commercial condition.
 
 
 ## Uses
@@ -24,9 +24,9 @@ Each data instance contains the following features: correct, wrong and category.
 
 ### Data Fields
 
-- 'correct': a string containing the a norwegian sentence with correct use of comma
-- 'wrong': a string containen the same norwegian sentence with wrong use of comma
-- 'category': an integer indicating the rule tested by the pair of correct and wrong sentences.
+- 'Correct': a string containing the a Norwegian sentence with correct use of comma
+- 'Wrong': a string containig the same Norwegian sentence with wrong use of comma
+- 'Category': an integer indicating the rule tested by the pair of correct and wrong sentences.
 
 ### Norwegian comma rules
 
@@ -54,7 +54,7 @@ The model tests the following Norwegian comma rules:
 
 ### Curation Rationale
 
-The aggragated annotations of NoReC_sentence are primarily intended for benchmarking purposes.
+The sentences in the dataset are primarily curated for benchmarking the performance of language models on Norwegian comma usage.
 
 ### Personal and Sensitive Information
 
@@ -65,9 +65,7 @@ The data does not contain information considered personal or sensitive.
 
 Results obtained on this data might not generalize to texts from other domains or genres. Any biases in the sentiments expressed by the original review authors may carry over to models trained on this data.
 
-## Additional Information
-
-### Dataset Curators
+### Dataset Creators and Curators
 The Norwegian Comma Benchmark was created by Hans Christian Farsethås and Joakim Tjøstheim.
 
 
