@@ -1,6 +1,6 @@
 # Dataset Card for Norwegian Comma Benchmark (NCB)
 
-Sentence-level evaluation of **???**
+Sentence-level evaluation of the comma placement abilities of large language models in Norwegian sentences.
 
 ## Dataset Description
 The NCB corpus (version 0.1) is a collection of 840 human-written Norwegian sentence pairs. The sentences are manually collected from publicly available sources such as articles and governmental reports. The sentences aim to be representative of Norwegian non-fiction, in particular governmental prose. Each pair tests one Norwegian comma rule: one sentence is correctly punctuated, while the other contains faulty comma usage. The dataset tests both rules where there should be a comma and rules where there should not be a comma. 
@@ -29,6 +29,8 @@ Each data instance contains the following features: correct, wrong and category.
 - 'category': an integer indicating the rule tested by the pair of correct and wrong sentences.
 
 ### Norwegian comma rules
+
+The model tests the following Norwegian comma rules:
 ```
   1. Det skal alltid være komma mellom helsetninger som er bundet sammen med sideordnende konjunksjoner
   2. Det skal alltid være komma mellom leddsetninger som er bundet sammen med sideordnende konjunksjoner
@@ -46,10 +48,26 @@ Each data instance contains the following features: correct, wrong and category.
  11. Det skal alltid være komma i en oppramsing dersom det ikke står noen konjunksjon
 ```
 
+
+## Dataset Creation
+
+
+### Curation Rationale
+
+The aggragated annotations of NoReC_sentence are primarily intended for benchmarking purposes.
+
+### Personal and Sensitive Information
+
+The data does not contain information considered personal or sensitive.
+
+
+### Recommendations
+
+Results obtained on this data might not generalize to texts from other domains or genres. Any biases in the sentiments expressed by the original review authors may carry over to models trained on this data.
+
 ## Additional Information
 
 ### Dataset Curators
-The Norwegian Comma Benchmark was created by Hans Christian Farsethås and Joakim Tjøstheim
+The Norwegian Comma Benchmark was created by Hans Christian Farsethås and Joakim Tjøstheim.
 
-### Licensing Information
 
