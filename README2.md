@@ -6,17 +6,17 @@ Sentence-level evaluation of the comma placement abilities of large language mod
 The NCB corpus (version 0.1) is a collection of 840 human-written Norwegian sentence pairs. The sentences are manually collected from publicly available sources such as articles and governmental reports. The sentences aim to be representative of Norwegian non-fiction, in particular governmental prose. Each pair tests one Norwegian comma rule: one sentence is correctly punctuated, while the other contains faulty comma usage. The dataset tests both rules where there should be a comma and rules where there should not be a comma. 
 
 - **Point of Contact:** [Hans Christian Farsethås](mailto:hans.farsethas@uib.no) and [Joakim Tjøstheim](mailto:joakimtjostheim@outlook.com)
-- **Language:** Norwegian bokmål
+- **Language:** Norwegian (bokmål)
 - **License:** The data is distributed under a Creative Commons Attribution-NonCommercial licence (CC BY-NC 4.0). The licence is motivated by the need to block the possibility of third parties redistributing the original reviews for commercial purposes. Note that machine learned models, extracted lexicons, embeddings, and similar resources that are created on the basis of NoReC are not considered to contain the original data and so can be freely used also for commercial purposes despite the non-commercial condition.
 
 
 ## Uses
-The data is intended to be used for testing and finetuning models for Norwegian sentence-level ** ??? ** 
+The data is intended to be used for testing and finetuning models for Norwegian sentence-level comma usage.
 
 ## Dataset Structure
 
 ### Data Instances
-Each data instance contains the following features: correct, wrong and category. An example from dataset looks like the following:
+Each data instance contains the following features: correct, wrong and category. An instance from the dataset looks like the following:
 ```
 {"correct": "Eva klatrer, og Ola går på ski.", "wrong": "Eva klatrer og Ola går på ski.", "category": 1}
 
@@ -54,7 +54,17 @@ The model tests the following Norwegian comma rules:
 
 ### Curation Rationale
 
-The sentences in the dataset are primarily curated for benchmarking the performance of language models on Norwegian comma usage.
+The sentences in the dataset are primarily curated to benchmark the performance of language models on Norwegian comma usage.
+
+### Data Preparation
+
+The sentences in the dataset are collected from actual documents. After collection, they are proofread and lightly edited to remove ambiguity and ensure they align with the specific rule being tested.
+
+The dataset contains 60 sentence pairs for each rule. Thus, it is representative of the rules rather than of language in actual use.
+
+## Generalizability
+
+The dataset aims to be representative of Norwegian non-fiction, with an emphasis on governmental prose. The rules tested are the main syntactic comma rules. Other forms of comma usage, such as commas indicating sentence rhythm and cases where correct placement depends on the writer's intended meaning, are not emphasized.
 
 ### Personal and Sensitive Information
 
